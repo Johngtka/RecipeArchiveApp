@@ -6,16 +6,32 @@ mat-toolbar {
     align-items: center;
     font-family: 'Nabla', system-ui;
     border-bottom: 5px solid #000;
-    justify-content: center;
+    justify-content: left;
 }
 
-mat-toolbar img {
+.logoForPC {
     width: 8rem;
     margin: 1%;
 }
 
-mat-toolbar span {
+.appTitleForPC {
     margin-left: 1%;
+    font-size: xx-large;
+}
+
+.systemDate {
+    margin-left: auto;
+    font-family: 'Protest Guerrilla', sans-serif;
+}
+
+.logoForMobiles {
+    width: 4rem;
+    margin: 1%;
+}
+
+.appTitleForMobiles {
+    margin-left: 1%;
+    font-size: small;
 }
 
 main {
@@ -32,6 +48,7 @@ main {
 footer {
     width: 100%;
     display: flex;
+    font-size: xx-large;
     text-align: center;
     font-style: italic;
     padding-top: 10px;
@@ -39,6 +56,12 @@ footer {
     font-family: Georgia, 'Times New Roman', Times, serif;
     padding-bottom: 10px !important;
     justify-content: center;
+}
+
+@media screen and (max-width: 610px) {
+  footer{
+    font-size: x-large;
+  }
 }
 
 footer b {

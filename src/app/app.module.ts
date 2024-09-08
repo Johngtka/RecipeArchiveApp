@@ -4,6 +4,7 @@ import {
     provideHttpClient,
     withInterceptorsFromDi,
 } from '@angular/common/http';
+import { LayoutModule } from '@angular/cdk/layout';
 import { BrowserModule } from '@angular/platform-browser';
 import { provideAnimationsAsync } from '@angular/platform-browser/animations/async';
 
@@ -29,6 +30,7 @@ const materialModules = [MatToolbarModule, MatProgressSpinnerModule];
 @NgModule({
     declarations: [AppComponent, HomeComponent],
     imports: [
+        LayoutModule,
         BrowserModule,
         AppRoutingModule,
         TranslateModule.forRoot({
