@@ -1,0 +1,46 @@
+mat-toolbar {
+    width: 100%;
+    height: fit-content;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    font-family: 'Nabla', system-ui;
+    border-bottom: 5px solid #000;
+    justify-content: center;
+}
+
+mat-toolbar img {
+    width: 8rem;
+    margin: 1%;
+}
+
+mat-toolbar span {
+    margin-left: 1%;
+}
+
+main {
+    width: 100%;
+    color: #fff;
+    height: 100vh;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(44, 44, 44);
+}
+
+footer {
+    width: 100%;
+    display: flex;
+    text-align: center;
+    font-style: italic;
+    padding-top: 10px;
+    align-items: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-bottom: 10px !important;
+    justify-content: center;
+}
+
+footer b {
+    padding-left: 5px;
+}
