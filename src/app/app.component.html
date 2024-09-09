@@ -1,0 +1,30 @@
+<mat-toolbar>
+    <img
+        *ngIf="!isMobileDetected"
+        class="logoForPC"
+        src="../assets/logo.png"
+        alt="logo"
+    />
+    <span *ngIf="!isMobileDetected" class="appTitleForPC">{{
+        'APP.APP_TITLE' | translate
+    }}</span>
+
+    <img
+        *ngIf="isMobileDetected"
+        class="logoForMobiles"
+        src="../assets/logo.png"
+        alt="logo"
+    />
+    <span *ngIf="isMobileDetected" class="appTitleForMobiles">{{
+        'APP.APP_TITLE' | translate
+    }}</span>
+
+    <div class="systemDate">
+        {{ fullDateValue }}
+    </div>
+</mat-toolbar>
+
+<main><router-outlet></router-outlet></main>
+<footer>
+    {{ 'APP_FOOTER' | translate }} <b>&copy;{{ dateObject.getFullYear() }}</b>
+</footer>
