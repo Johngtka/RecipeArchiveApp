@@ -4,7 +4,7 @@ mat-toolbar {
     display: flex;
     text-align: center;
     align-items: center;
-    font-family: 'Nabla', system-ui;
+    font-family: 'Protest Guerrilla', sans-serif;
     border-bottom: 5px solid #000;
     justify-content: left;
 }
@@ -21,7 +21,6 @@ mat-toolbar {
 
 .systemDate {
     margin-left: auto;
-    font-family: 'Protest Guerrilla', sans-serif;
 }
 
 .logoForMobiles {
@@ -53,15 +52,15 @@ footer {
     font-style: italic;
     padding-top: 10px;
     align-items: center;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Protest Guerrilla', sans-serif;
     padding-bottom: 10px !important;
     justify-content: center;
 }
 
 @media screen and (max-width: 610px) {
-  footer{
-    font-size: x-large;
-  }
+    footer {
+        font-size: larger;
+    }
 }
 
 footer b {
