@@ -1,0 +1,16 @@
+mat-card{
+  width: 80%;
+  color: #000;
+  height: 80vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+@media screen and (max-width: 610px){
+  mat-card{
+    width: 100%;
+  }
+}

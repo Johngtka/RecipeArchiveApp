@@ -11,7 +11,10 @@ import { provideAnimationsAsync } from '@angular/platform-browser/animations/asy
 import { TranslateModule } from '@ngx-translate/core';
 import { TranslateLoader } from '@ngx-translate/core';
 import { TranslateHttpLoader } from '@ngx-translate/http-loader';
+import { MatCardModule } from '@angular/material/card';
+import { MatInputModule } from '@angular/material/input';
 import { MatToolbarModule } from '@angular/material/toolbar';
+import { MatFormFieldModule } from '@angular/material/form-field';
 import { MatProgressSpinnerModule } from '@angular/material/progress-spinner';
 
 import { AppComponent } from './app.component';
@@ -25,7 +28,13 @@ export function HttpLoaderFactory(httpClient: HttpClient) {
 const navigatorLang = navigator.language.split('-')[0];
 const supportedLang = ['pl', 'en'];
 const lang = supportedLang.includes(navigatorLang) ? navigatorLang : 'pl';
-const materialModules = [MatToolbarModule, MatProgressSpinnerModule];
+const materialModules = [
+    MatCardModule,
+    MatInputModule,
+    MatToolbarModule,
+    MatFormFieldModule,
+    MatProgressSpinnerModule,
+];
 
 @NgModule({
     declarations: [AppComponent, HomeComponent],
