@@ -2,5 +2,10 @@
     "APP": {
         "APP_TITLE": "Archiwum Przepisów"
     },
+    "HOME": {
+      "FORM": {
+        "INPUT":"Rozwiązanie"
+      }
+    },
     "APP_FOOTER": "Wszelkie prawa zastrzeżone"
 }

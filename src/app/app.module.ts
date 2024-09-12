@@ -6,6 +6,7 @@ import {
 } from '@angular/common/http';
 import { LayoutModule } from '@angular/cdk/layout';
 import { BrowserModule } from '@angular/platform-browser';
+import { ReactiveFormsModule } from '@angular/forms';
 import { provideAnimationsAsync } from '@angular/platform-browser/animations/async';
 
 import { TranslateModule } from '@ngx-translate/core';
@@ -51,6 +52,7 @@ const materialModules = [
             },
         }),
         ...materialModules,
+        ReactiveFormsModule,
     ],
     providers: [
         provideAnimationsAsync(),
