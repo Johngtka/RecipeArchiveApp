@@ -1,16 +1,30 @@
-mat-card{
-  width: 80%;
-  color: #000;
-  height: 80vh;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  margin-left: auto;
-  margin-right: auto;
+mat-card {
+    width: 80%;
+    color: #000;
+    height: 80vh;
+    display: flex;
+    font-size: xx-large;
+    font-weight: bold;
+    margin-left: auto;
+    align-items: center;
+    margin-right: auto;
+    justify-content: center;
 }
 
-@media screen and (max-width: 610px){
-  mat-card{
+.riddleContent {
     width: 100%;
-  }
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+@media screen and (max-width: 610px) {
+    mat-card {
+        width: 100%;
+        font-size: small;
+        text-align: center;
+    }
+    .riddleContent {
+        display: block;
+    }
 }

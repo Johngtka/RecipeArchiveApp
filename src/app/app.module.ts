@@ -15,6 +15,7 @@ import { TranslateHttpLoader } from '@ngx-translate/http-loader';
 import { MatCardModule } from '@angular/material/card';
 import { MatInputModule } from '@angular/material/input';
 import { MatToolbarModule } from '@angular/material/toolbar';
+import { MatDividerModule } from '@angular/material/divider';
 import { MatFormFieldModule } from '@angular/material/form-field';
 import { MatProgressSpinnerModule } from '@angular/material/progress-spinner';
 
@@ -33,6 +34,7 @@ const materialModules = [
     MatCardModule,
     MatInputModule,
     MatToolbarModule,
+    MatDividerModule,
     MatFormFieldModule,
     MatProgressSpinnerModule,
 ];

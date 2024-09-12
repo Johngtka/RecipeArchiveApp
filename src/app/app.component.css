@@ -34,20 +34,20 @@ mat-toolbar {
 }
 
 .content {
-  margin: 0;
-  height: 100vh;
-  display: flex;
-  align-items: center;
-  background-size: cover;
-  background-color: rgb(44, 44, 44);
-  background-repeat: no-repeat;
-  background-position: center;
-  background-attachment: fixed;
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    background-size: cover;
+    background-color: rgb(44, 44, 44);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
 }
 
 .appContent {
-  width: 100%;
-  display: block;
+    width: 100%;
+    display: block;
 }
 
 footer {

@@ -1,13 +1,20 @@
 <mat-card>
+    <mat-card-title
+        ><h1>{{ 'HOME.CONTENT.TITLE' | translate }}</h1>
+        <mat-divider></mat-divider
+    ></mat-card-title>
     <mat-card-content>
-        <div>
-            <p [innerHTML]="mathTemplate"></p>
+        <span
+            ><h3>{{ 'HOME.CONTENT.RIDDLE_CONTENT' | translate }}</h3></span
+        >
+        <div class="riddleContent">
+            <h4 [innerHTML]="mathTemplate"></h4>
+            <form [formGroup]="riddlesForm">
+                <mat-form-field appearance="fill" tabindex="1">
+                    <mat-label>{{ 'HOME.FORM.INPUT' | translate }}</mat-label>
+                    <input matInput formControlName="answer" />
+                </mat-form-field>
+            </form>
         </div>
-        <form [formGroup]="riddlesForm">
-            <mat-form-field appearance="fill" tabindex="1">
-                <mat-label>{{ 'HOME.FORM.INPUT' | translate }}</mat-label>
-                <input matInput formControlName="answer" />
-            </mat-form-field>
-        </form>
     </mat-card-content>
 </mat-card>
