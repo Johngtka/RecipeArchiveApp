@@ -8,7 +8,8 @@
             "RIDDLE_CONTENT": "Rozwiąż to równanie a dostaniesz mapę serwisu"
         },
         "FORM": {
-            "INPUT": "Rozwiązanie"
+            "INPUT": "Rozwiązanie",
+            "BUTTON": "Sprawdź"
         }
     },
     "APP_FOOTER": "Wszelkie prawa zastrzeżone"

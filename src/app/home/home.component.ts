@@ -12,6 +12,7 @@ export class HomeComponent implements OnInit {
     mathTemplate = `
     $$\\frac{\\log(C^2 + \\sqrt{H}) \\times \\sin(U) + e^{J}}{\\cos(C) + H \\times \\sqrt{J}}$$
   `;
+    formResponse!: any;
 
     ngOnInit(): void {
         this.riddlesForm = new FormGroup({
@@ -21,5 +22,21 @@ export class HomeComponent implements OnInit {
         if ((window as any).MathJax) {
             (window as any).MathJax.typesetPromise();
         }
+        this.formResponse = this.riddlesForm.value;
+    }
+
+    checkAnswer(answer: string): void {
+        console.log(answer);
+    }
+
+    clearInput() {
+        this.riddlesForm.get('answer')?.reset();
+    }
+
+    hasChange(): boolean | void {
+        return (
+            JSON.stringify(this.riddlesForm.value) !==
+            JSON.stringify(this.formResponse)
+        );
     }
 }

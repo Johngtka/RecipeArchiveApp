@@ -8,7 +8,8 @@
             "RIDDLE_CONTENT": "Solve this equation and you will get a map of the service"
         },
         "FORM": {
-            "INPUT": "Solution"
+            "INPUT": "Solution",
+            "BUTTON": "Check"
         }
     },
     "APP_FOOTER": "All rights reserved"

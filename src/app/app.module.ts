@@ -12,8 +12,10 @@ import { provideAnimationsAsync } from '@angular/platform-browser/animations/asy
 import { TranslateModule } from '@ngx-translate/core';
 import { TranslateLoader } from '@ngx-translate/core';
 import { TranslateHttpLoader } from '@ngx-translate/http-loader';
+import { MatIconModule } from '@angular/material/icon';
 import { MatCardModule } from '@angular/material/card';
 import { MatInputModule } from '@angular/material/input';
+import { MatButtonModule } from '@angular/material/button';
 import { MatToolbarModule } from '@angular/material/toolbar';
 import { MatDividerModule } from '@angular/material/divider';
 import { MatFormFieldModule } from '@angular/material/form-field';
@@ -31,9 +33,11 @@ const navigatorLang = navigator.language.split('-')[0];
 const supportedLang = ['pl', 'en'];
 const lang = supportedLang.includes(navigatorLang) ? navigatorLang : 'pl';
 const materialModules = [
+    MatIconModule,
     MatCardModule,
     MatInputModule,
     MatToolbarModule,
+    MatButtonModule,
     MatDividerModule,
     MatFormFieldModule,
     MatProgressSpinnerModule,
