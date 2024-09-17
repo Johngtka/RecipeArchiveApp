@@ -19,7 +19,7 @@ mat-card {
     justify-content: space-between;
 }
 
-@media screen and (max-width: 610px) {
+@media screen and (max-width: 1185px) {
     mat-card {
         width: 100%;
         font-size: small;
