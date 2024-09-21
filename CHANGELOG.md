@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.3](https://github.com/Johngtka/RecipeArchiveApp/compare/v0.0.2...v0.0.3) (2024-09-21)
+
+
+### Features
+
+* new app home improvement as ripple ([#3](https://github.com/Johngtka/RecipeArchiveApp/issues/3)) ([a953b82](https://github.com/Johngtka/RecipeArchiveApp/commit/a953b825f9d9ac4b9c8f81a023db5cb4ab16f67e))
+
+
+### Bug Fixes
+
+* changed app styles ([13d2147](https://github.com/Johngtka/RecipeArchiveApp/commit/13d2147cf0ce30b3455915a5d2c0f5677a3b7680))
+
 ### [0.0.2](https://github.com/Johngtka/RecipeArchiveApp/compare/v0.0.1...v0.0.2) (2024-09-09)
 
 
