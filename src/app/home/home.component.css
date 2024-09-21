@@ -22,7 +22,7 @@ mat-card {
 @media screen and (max-width: 1185px) {
     mat-card {
         width: 100%;
-        font-size: small;
+        font-size:large;
         text-align: center;
     }
     .riddleContent {

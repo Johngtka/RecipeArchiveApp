@@ -31,10 +31,8 @@ export class HomeComponent implements OnInit {
     checkAnswer(answerValue: any): void {
         if (answerValue.answer === this.answerForForm) {
             this.formKeyByAnswer = true;
-            console.log(this.formKeyByAnswer);
         } else {
             this.formKeyByAnswer = false;
-            console.log(this.formKeyByAnswer);
         }
     }
 
