@@ -2,5 +2,15 @@
     "APP": {
         "APP_TITLE": "Archiwum Przepisów"
     },
+    "HOME": {
+        "CONTENT": {
+            "TITLE": "Zagadka!!!",
+            "RIDDLE_CONTENT": "Rozwiąż to równanie a dostaniesz mapę serwisu"
+        },
+        "FORM": {
+            "INPUT": "Rozwiązanie",
+            "BUTTON": "Sprawdź"
+        }
+    },
     "APP_FOOTER": "Wszelkie prawa zastrzeżone"
 }

@@ -24,7 +24,12 @@
     </div>
 </mat-toolbar>
 
-<main><router-outlet></router-outlet></main>
+<div class="content">
+    <div class="appContent">
+        <router-outlet></router-outlet>
+    </div>
+</div>
+
 <footer>
     {{ 'APP_FOOTER' | translate }} <b>&copy;{{ dateObject.getFullYear() }}</b>
 </footer>

@@ -1,0 +1,16 @@
+{
+    "APP": {
+        "APP_TITLE": "Recipes Archive"
+    },
+    "HOME": {
+        "CONTENT": {
+            "TITLE": "Riddle!!!",
+            "RIDDLE_CONTENT": "Solve this equation and you will get a map of the service"
+        },
+        "FORM": {
+            "INPUT": "Solution",
+            "BUTTON": "Check"
+        }
+    },
+    "APP_FOOTER": "All rights reserved"
+}

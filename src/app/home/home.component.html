@@ -1,2 +1,53 @@
-Huj in Process!
-<mat-spinner></mat-spinner>
+<mat-card>
+    <mat-card-title>
+        <div *ngIf="!formKeyByAnswer">
+            <h1>{{ 'HOME.CONTENT.TITLE' | translate }}</h1>
+            <mat-divider></mat-divider>
+        </div>
+    </mat-card-title>
+    <mat-card-content>
+        <div *ngIf="!formKeyByAnswer">
+            <span
+                ><h3>{{ 'HOME.CONTENT.RIDDLE_CONTENT' | translate }}</h3></span
+            >
+
+            <div class="riddleContent">
+                <h4 [innerHTML]="mathTemplate"></h4>
+                <form [formGroup]="riddlesForm">
+                    <mat-form-field appearance="fill" tabindex="1">
+                        <mat-label>{{
+                            'HOME.FORM.INPUT' | translate
+                        }}</mat-label>
+                        <input
+                            matInput
+                            type="password"
+                            formControlName="answer"
+                        />
+                        <button
+                            *ngIf="riddlesForm.get('answer')?.value"
+                            matSuffix
+                            mat-icon-button
+                            aria-label="Clear"
+                            (click)="clearInput()"
+                            style="display: flex; width: auto; height: auto"
+                        >
+                            <mat-icon>close</mat-icon>
+                        </button>
+                    </mat-form-field>
+                </form>
+            </div>
+
+            <button
+                mat-fab
+                extended
+                class="searchButton"
+                (click)="checkAnswer(riddlesForm.value)"
+                [disabled]="!hasChange() || !riddlesForm.valid"
+            >
+                <mat-icon class="mat-18">search</mat-icon>
+                {{ 'HOME.FORM.BUTTON' | translate }}
+            </button>
+        </div>
+        <mat-spinner *ngIf="formKeyByAnswer"></mat-spinner>
+    </mat-card-content>
+</mat-card>

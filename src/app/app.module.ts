@@ -6,12 +6,19 @@ import {
 } from '@angular/common/http';
 import { LayoutModule } from '@angular/cdk/layout';
 import { BrowserModule } from '@angular/platform-browser';
+import { ReactiveFormsModule } from '@angular/forms';
 import { provideAnimationsAsync } from '@angular/platform-browser/animations/async';
 
 import { TranslateModule } from '@ngx-translate/core';
 import { TranslateLoader } from '@ngx-translate/core';
 import { TranslateHttpLoader } from '@ngx-translate/http-loader';
+import { MatIconModule } from '@angular/material/icon';
+import { MatCardModule } from '@angular/material/card';
+import { MatInputModule } from '@angular/material/input';
+import { MatButtonModule } from '@angular/material/button';
 import { MatToolbarModule } from '@angular/material/toolbar';
+import { MatDividerModule } from '@angular/material/divider';
+import { MatFormFieldModule } from '@angular/material/form-field';
 import { MatProgressSpinnerModule } from '@angular/material/progress-spinner';
 
 import { AppComponent } from './app.component';
@@ -25,7 +32,16 @@ export function HttpLoaderFactory(httpClient: HttpClient) {
 const navigatorLang = navigator.language.split('-')[0];
 const supportedLang = ['pl', 'en'];
 const lang = supportedLang.includes(navigatorLang) ? navigatorLang : 'pl';
-const materialModules = [MatToolbarModule, MatProgressSpinnerModule];
+const materialModules = [
+    MatIconModule,
+    MatCardModule,
+    MatInputModule,
+    MatToolbarModule,
+    MatButtonModule,
+    MatDividerModule,
+    MatFormFieldModule,
+    MatProgressSpinnerModule,
+];
 
 @NgModule({
     declarations: [AppComponent, HomeComponent],
@@ -42,6 +58,7 @@ const materialModules = [MatToolbarModule, MatProgressSpinnerModule];
             },
         }),
         ...materialModules,
+        ReactiveFormsModule,
     ],
     providers: [
         provideAnimationsAsync(),

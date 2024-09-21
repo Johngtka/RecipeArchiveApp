@@ -33,15 +33,21 @@ mat-toolbar {
     font-size: medium;
 }
 
-main {
-    width: 100%;
-    color: #fff;
+.content {
+    margin: 0;
     height: 100vh;
     display: flex;
-    text-align: center;
     align-items: center;
-    justify-content: center;
+    background-size: cover;
     background-color: rgb(44, 44, 44);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.appContent {
+    width: 100%;
+    display: block;
 }
 
 footer {
