@@ -18,7 +18,11 @@
                         <mat-label>{{
                             'HOME.FORM.INPUT' | translate
                         }}</mat-label>
-                        <input matInput formControlName="answer" />
+                        <input
+                            matInput
+                            type="password"
+                            formControlName="answer"
+                        />
                         <button
                             *ngIf="riddlesForm.get('answer')?.value"
                             matSuffix
