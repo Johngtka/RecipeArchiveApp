@@ -1,0 +1,7 @@
+mat-card {
+    display: flex;
+    justify-content: start;
+}
+h1{
+  text-align: center;
+}

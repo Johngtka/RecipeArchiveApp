@@ -12,5 +12,11 @@
             "BUTTON": "Sprawdź"
         }
     },
+    "PRODUCTS": {
+      "RECIPE_HEADER": "Przepis:",
+        "P1T1": {
+            "NAME": "Tort Urodzinowy"
+        }
+    },
     "APP_FOOTER": "Wszelkie prawa zastrzeżone"
 }

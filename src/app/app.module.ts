@@ -24,6 +24,7 @@ import { MatProgressSpinnerModule } from '@angular/material/progress-spinner';
 import { AppComponent } from './app.component';
 import { HomeComponent } from './home/home.component';
 import { AppRoutingModule } from './app-routing.module';
+import { ProductComponent } from './product/product.component';
 
 export function HttpLoaderFactory(httpClient: HttpClient) {
     return new TranslateHttpLoader(httpClient, './assets/i18n/');
@@ -44,7 +45,7 @@ const materialModules = [
 ];
 
 @NgModule({
-    declarations: [AppComponent, HomeComponent],
+    declarations: [AppComponent, HomeComponent, ProductComponent],
     imports: [
         LayoutModule,
         BrowserModule,
