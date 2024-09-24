@@ -33,13 +33,44 @@
             }
         },
         "P1T2": {
-            "NAME": "Dla Smakoszy"
+            "NAME": "Dla Smakoszy",
+            "STEPS": {
+                "1": "Jajka ogrzać w temp. pokojowej lub szybciej - w misce z ciepłą wodą. Piekarnik nagrzać do 180 stopni C.",
+                "2": "Żółtka ubijać z połową cukru pudru na puszysto, przez około 7 minut. W drugiej misce ubić białka na sztywno, następnie dodać drugą połowę cukru pudru i ubijać przez około 7 minut, aż piana będzie sztywna i błyszcząca.",
+                "3": "Mąkę pszenną, mąkę ziemniaczaną oraz proszek do pieczenia przesiać razem do oddzielnej miski i wymieszać",
+                "4": "Delikatnie połączyć żółtka z białkami za pomocą szpatułki. Następnie do masy przesiać 1/3 ilości mąki i bardzo delikatnie połączyć szpatułką, nie niszcząc ubitej piany. Wsypać kolejną 1/3 mieszanki i znów delikatnie połączyć, to samo zrobić z pozostałą mąką.",
+                "5": "Wyłożyć do małej formy o średnicy 21 cm, wyrównać wierzch. Piec przez ok. 35 - 45 minut (do suchego patyczka). Wyjąć z piekarnika, ostudzić, przekroić go na 3 poziome blaty.",
+                "6": "Opcjonalnie można skropić likierem (po 2 łyżeczki na blat).",
+                "7": "Maliny włożyć do garnka i rozmrozić jeśli były mrożone, podgrzwając je pod przykryciem przez ok. 10 minut.",
+                "8": "Dodać cukier i zagotować, dodać kisiel, wymieszać i odstawić z ognia. Ostudzić.",
+                "9": "Mascarpone włożyć do miski i ubijać przez ok. 1 minutę (do potrojenia objętości).",
+                "10": "W rondelku zagotować śmietankę, odstawić z ognia, dodać połamaną na kosteczki czekoladę i mieszać do rozpuszczenia.",
+                "11": "Przełożyć do czystej miski i całkowicie ostudzić.",
+                "12": "Do miski z czekoladą dodawać porcjami mascarpone, po kilka łyżek, krótko miksując na jednolity krem.",
+                "13": "Położyć dolny biszkopt na paterze, posmarować połową malin, 1/3 kremu. Przykryć drugim krążkiem biszkoptu, wyłożyć resztę malin i połowę pozostałego kremu.",
+                "14": "Przykryć ostatnim biszkoptem i posmarować cały tort resztą kremu. Obłożyć boki wiórkami, wierzch udekorować posypką lub świeżymi malinami.",
+                "15": "Wstawić do lodówki na ok. 1 godzinę lub na tyle czasu ile potrzebujemy."
+            }
         },
         "P1T3": {
-            "NAME": "Tort Jubileuszowy"
+            "NAME": "Tort Jubileuszowy",
+            "STEPS": {
+                "1": "Białka oddzielić od żółtek i ubić na sztywno ze szczyptą soli. Uperfumować cukrem waniliowym. Posłodzić – cukier dodawać porcjami, cały czas ubijając. Po jednym dodać żółtka – cały czas miksując na niskich obrotach. Wsypać mąkę, wlać oliwę. Wymieszać. Przełożyć do tortownicy, wyłożonej papierem do pieczenia, wysmarowanej masłem i wysypanej bułką tartą (średnica 24-25 cm). Piec na złoty kolor przez 40-45 minut – w temp. 180 st. C.",
+                "2": "Orzeszki zmiksować w robocie. Posolić, posłodzić miodem i jeszcze raz zmiksować.",
+                "3": "Dobrze schłodzoną śmietanę ubić w misce. Dodać ricottę i zmiksować. Wlać rozpuszczoną i wystudzoną galaretkę (do rozpuszczenia wystarczy ½ szklanki wrzątku). Ponownie zmiksować.",
+                "4": "Wystudzony biszkopt przekroić wzdłuż na pół. Blaty naponczować. Spód posmarować masłem orzechowym. Wyłożyć trochę więcej niż połowę kremu. Rozsmarować. Przykryć drugim krążkiem. Wierzch i boki posmarować resztką kremu. Wyrównać. Boki obsypać prażonymi i drobno posiekanymi orzeszkami ziemnymi. Na wierzchu zrobić wianuszek z kandyzowanej skórki pomarańczowej. Wstawić do lodówki, by masa stężała. Przed podaniem wierzch udekorować kakao, używając okazjonalnego szablonu."
+            }
         },
         "P1T4": {
-            "NAME": "Tort Ślubny"
+            "NAME": "Tort Ślubny",
+            "STEPS": {
+                "1": "Nagrzej  piekarnik do 170ºC. Masło roztop w garnuszku i odstaw  do wystudze­nia. Jajka z cukrem  i ekstraktem waniliowym  ubijaj, aż potroją objętość i nabiorą  bardzo  jasnego koloru. Trwa to nawet do 20 minut.  Dodaj do ubitych jajek przestu­dzone  masło. Delikatnie wymieszaj. Mąkę przesiej  przez sito. Liofilizowane owoce zblenduj i dodaj do mąki. Mąkę z liofilizowanymi owocami dodaj do ubitych  jajek w 3 turach,  po każdej delikatnie mieszając szpatułką. Biszkopt  przelej  do tortow­nicy wyłożonej papierem do pieczenia i piecz przez 40 minut do suchego patyczka. Wystudź  i przetnij na 3 blaty.",
+                "2": "Zwiększ temperaturę piekarnika do 180ºC. Wiórki  kokosowe, migdały  i cukier puder  wymieszaj. W misce ubij białka  ze szczyptą  soli na sztywno. Dodawaj stop­niowo cukier i miksuj, aż całkowicie  się rozpuści.  Dodaj skórkę z cytryny i krótko  zmiksuj.  Ubite  białka  połącz  z mieszanką wiórków,  cukru  i migdałów,  delikatnie mieszając   szpatułką.  Przełóż   do  tortownicy  wyłożonej  papierem  do  pieczenia i piecz 20‒25 minut.",
+                "3": "W garnuszku zagotuj  połowę  mleka  z cukrem  oraz  tymiankiem cytrynowym. Pozostałą część  mleka zblenduj z mąkami, jajkami i skórką z cytryny na  gładką masę. Przecedź  mleko z garnka  przez  sito, aby pozbyć  się tymianku cytrynowego. Przelej  z powrotem do garnka  i ponownie  podgrzej.  Wymieszaj  mleko  z jajkami i mąką ziemniaczaną, wlej do wrzącego mleka. Powoli podgrzewaj, nie przerywając mieszania.  Musisz uzyskać gęsty i gładki budyń. Zdejmij z palnika  i przykryj folią spożywczą tak, aby dotykała budyniu.  Odstaw  do wystudzenia. Masło ubij na jasną i puszystą masę. Stopniowo i powoli dodawaj wystudzony  budyń, cały czas miksu­ jąc. Na końcu wlej sok z cytryny, stopniowo,  ale cały czas miksując  do połączenia.",
+                "4": "Żelatynę  namocz  w minimalnej ilości  zimnej  wody.  Odstaw  do  napęcznienia na 10 minut.  Żółtka utrzyj  z cukrem  na parze  na puszystą  masę. Zrób zabaglione. Masa ma być gęsta. Na koniec stopniowo dolewaj wino musujące, ciągle mieszając. Żelatynę upłynnij, podgrzewając w garnuszku albo mikrofalówce do rozpuszczenia. Dolej do ciągle ciepłej  masy jajecznej. Wystudź.  Śmietankę ubij na sztywną pianę i stopniowo dodawaj do szampańskiej masy. Delikatnie mieszaj szpatułką do całko­witego połączenia. Schłodź do czasu przełożenia tortu.",
+                "5": "Do miski włóż posiekaną białą czekoladę i wlej śmietankę. Podgrzewaj w kąpieli wodnej tak, aby dno miski nie dotykało wody. Na koniec dodaj dowolny barwnik.",
+                "6": "Na paterze/talerzu/podkładzie  tortowym ułóż bezowy blat migdałowo-kokoso­wy. Wyłóż połowę  kremu  cytrynowego. Przykryj blatem  biszkoptowym,  nasączo­nym ⅓ ponczu  cytrynowego. Na blat biszkoptowy wyłóż pozostały krem cytrynowy. Przykryj blatem biszkoptu, nasącz. Wyłóż krem szampański i przykryj ostatnim bla­tem biszkoptowym,  nasącz resztą  ponczu. Tort schłodź  przez kilka godzin, a najle­piej przez całą noc. Obłóż kremem maślanym, wygładź i dowolnie udekoruj. Płynny drip z białej czekolady wylej na schłodzony tort."
+            }
         }
     },
     "APP_FOOTER": "Wszelkie prawa zastrzeżone"

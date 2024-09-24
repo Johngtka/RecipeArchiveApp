@@ -25,6 +25,9 @@ import { AppComponent } from './app.component';
 import { HomeComponent } from './home/home.component';
 import { AppRoutingModule } from './app-routing.module';
 import { P1T1Component } from './p1-t1/p1-t1.component';
+import { P1T2Component } from './p1-t2/p1-t2.component';
+import { P1T3Component } from './p1-t3/p1-t3.component';
+import { P1T4Component } from './p1-t4/p1-t4.component';
 
 export function HttpLoaderFactory(httpClient: HttpClient) {
     return new TranslateHttpLoader(httpClient, './assets/i18n/');
@@ -45,7 +48,7 @@ const materialModules = [
 ];
 
 @NgModule({
-    declarations: [AppComponent, HomeComponent, P1T1Component],
+    declarations: [AppComponent, HomeComponent, P1T1Component, P1T2Component, P1T3Component, P1T4Component],
     imports: [
         LayoutModule,
         BrowserModule,
