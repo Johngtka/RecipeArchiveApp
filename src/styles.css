@@ -12,9 +12,10 @@ body {
 mat-card {
     width: 80% !important;
     color: #000 !important;
-    height: 80vh !important;
+    height: fit-content !important;
     border: 4px solid #000 !important;
     display: flex !important;
+    padding: 3% !important;
     font-size: xx-large;
     font-weight: bold !important;
     margin-left: auto !important;

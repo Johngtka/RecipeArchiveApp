@@ -15,7 +15,31 @@
     "PRODUCTS": {
       "RECIPE_HEADER": "Przepis:",
         "P1T1": {
-            "NAME": "Tort Urodzinowy"
+            "NAME": "Tort Urodzinowy",
+            "STEPS":{
+              "1":"Piekarnik rozgrzej do temperatury 170 stopni.",
+              "2":"Dno tortownicy ze zdejmowanym brzegiem o średnicy 26 cm wyłóż papierem do pieczenia. Wytnij pasek papieru i wyłóż nim brzegi tortownicy (pasek papieru powinien być wyższy od wysokości formy).",
+              "3":"Wymieszaj mąkę pszenną z ziemniaczaną.",
+              "4":"Oddziel białka od żółtek.",
+              "5":"Białka ubij na sztywną pianę, pod koniec ubijania dodaj cukier, następnie pojedynczo dodawaj żółtka, wymieszaj mikserem.",
+              "6":"Do masy powoli dosypuj mąkę, zmieszaj delikatnie za pomocą szpatułki.",
+              "7":"Ciasto przełóż do formy.",
+              "8":"Piecz 45 minut.",
+              "9":"Wyciągnij blachę z piekarnika. Jak nieco ostygnie, ściągnij obręcz tortownicy. Przewróć biszkopt na drugą stronę, aby wyrównać powierzchnię (zazwyczaj po upieczeniu biszkopt ma małą górkę).",
+              "10":"Składniki do nasączania biszkopta zagotuj, ostudź.",
+              "11":"Śmietanę ubij z serkiem mascarpone i cukrem.",
+              "12":"Biszkopt przetnij na dwie części, za pomocą pędzla lub łyżki nasącz oba blaty ciasta, powinny być wilgotne.",
+              "13": "Posmaruj jeden z blatów masą śmietankową, część masy zachowaj do dekoracji. Z truskawek usuń szypułki, owoce przekrój na połówki. Na pierwszym blacie połóż połowę truskawek, przykryj drugim blatem, udekoruj śmietaną i pozostałymi owocami."
+            }
+        },
+        "P1T2": {
+            "NAME": "Dla Smakoszy"
+        },
+        "P1T3": {
+            "NAME": "Tort Jubileuszowy"
+        },
+        "P1T4": {
+            "NAME": "Tort Ślubny"
         }
     },
     "APP_FOOTER": "Wszelkie prawa zastrzeżone"
