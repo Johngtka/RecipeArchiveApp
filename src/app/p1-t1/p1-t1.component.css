@@ -1,25 +1,24 @@
-
-ul{
-  margin-left: auto;
-  margin-right: auto;
+ul {
+    margin-left: auto;
+    margin-right: auto;
 }
 
-@media screen and (max-width: 610px){
-  mat-card{
-    width: 100% !important;
-    font-size: small !important;
-    padding: 0% !important;
-    height: 90vh !important;
-    text-align: center !important;
-  }
+@media screen and (max-width: 610px) {
+    mat-card {
+        width: 100% !important;
+        height: 90vh !important;
+        padding: 0% !important;
+        font-size: small !important;
+        text-align: center !important;
+    }
 
-  mat-card-content{
-    padding: 0;
-  }
+    mat-card-content {
+        padding: 0;
+    }
 
-  ul{
-    padding:0 !important;
-    width: 100%;
-    list-style-type: none;
-  }
+    ul {
+        width: 100%;
+        padding: 0 !important;
+        list-style-type: none;
+    }
 }
