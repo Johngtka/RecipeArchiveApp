@@ -10,12 +10,12 @@ body {
 }
 
 mat-card {
-    width: 80% !important;
+    width: 60% !important;
     color: #000 !important;
     height: fit-content !important;
     border: 4px solid #000 !important;
     display: flex !important;
-    padding: 3% !important;
+    padding: 5% !important;
     font-size: large;
     text-align: center !important;
     font-weight: bold !important;
@@ -25,20 +25,30 @@ mat-card {
     justify-content: center;
 }
 
-/* ul > li {
-  margin-bottom: 10px;
-} */
+ul {
+    margin-left: auto;
+    margin-right: auto;
+}
 
-@media screen and (max-width: 1400px) {
+ul > li {
+    text-align: left;
+}
+
+@media screen and (max-width: 742px) {
     mat-card {
-        width: 100%;
-        font-size: small;
-        padding: 0 !important;
+        width: 100% !important;
+        font-size: small !important;
+        /* padding: 0 !important; */
     }
+
+    ul {
+        width: 80% !important;
+    }
+
     ul > li {
-      margin-bottom: 6px;
+        margin-bottom: 6px;
     }
     .riddleContent {
-        display: block;
+        display: block !important;
     }
 }

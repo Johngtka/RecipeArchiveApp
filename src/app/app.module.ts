@@ -48,7 +48,14 @@ const materialModules = [
 ];
 
 @NgModule({
-    declarations: [AppComponent, HomeComponent, P1T1Component, P1T2Component, P1T3Component, P1T4Component],
+    declarations: [
+        AppComponent,
+        HomeComponent,
+        P1T1Component,
+        P1T2Component,
+        P1T3Component,
+        P1T4Component,
+    ],
     imports: [
         LayoutModule,
         BrowserModule,

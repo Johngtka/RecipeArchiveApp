@@ -1,24 +1,29 @@
-ul {
-  margin-left: auto;
-  margin-right: auto;
+ul > li {
+    text-align: center;
 }
 
+@media screen and (max-width: 1400px) {
+    mat-card {
+        padding: 3% !important;
+        font-size: small !important;
+    }
+}
 
 @media screen and (max-width: 742px) {
-  mat-card {
-      width: 100% !important;
-      height: fit-content !important;
-      padding: 0% !important;
-      font-size: small !important;
-  }
+    mat-card {
+        width: 100% !important;
+        height: fit-content !important;
+        padding: 0% !important;
+        font-size: small !important;
+    }
 
-  mat-card-content {
-      padding: 0;
-  }
+    mat-card-content {
+        padding: 0;
+    }
 
-  ul {
-      width: 100%;
-      padding: 0 !important;
-      list-style-type: none;
-  }
+    ul {
+        width: 100%;
+        padding: 0 !important;
+        list-style-type: none;
+    }
 }

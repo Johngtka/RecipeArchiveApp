@@ -16,6 +16,10 @@
     margin-right: auto;
 }
 
+h4 {
+    margin-right: 20px;
+}
+
 mat-icon {
     font-size: 48px;
     width: auto;
