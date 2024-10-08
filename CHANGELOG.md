@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.4](https://github.com/Johngtka/RecipeArchiveApp/compare/v0.0.3...v0.0.4) (2024-10-08)
+
+
+### Features
+
+* added full product module calls P1 ([#4](https://github.com/Johngtka/RecipeArchiveApp/issues/4)) ([247d481](https://github.com/Johngtka/RecipeArchiveApp/commit/247d48178202ffd343db1e817136fa20a7603d4a))
+
 ### [0.0.3](https://github.com/Johngtka/RecipeArchiveApp/compare/v0.0.2...v0.0.3) (2024-09-21)
 
 
