@@ -63,12 +63,12 @@ footer {
     justify-content: center;
 }
 
+footer b {
+    padding-left: 5px;
+}
+
 @media screen and (max-width: 610px) {
     footer {
         font-size: larger;
     }
-}
-
-footer b {
-    padding-left: 5px;
 }
