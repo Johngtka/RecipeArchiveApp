@@ -71,6 +71,22 @@
                 "5": "Do miski włóż posiekaną białą czekoladę i wlej śmietankę. Podgrzewaj w kąpieli wodnej tak, aby dno miski nie dotykało wody. Na koniec dodaj dowolny barwnik.",
                 "6": "Na paterze/talerzu/podkładzie  tortowym ułóż bezowy blat migdałowo-kokoso­wy. Wyłóż połowę  kremu  cytrynowego. Przykryj blatem  biszkoptowym,  nasączo­nym ⅓ ponczu  cytrynowego. Na blat biszkoptowy wyłóż pozostały krem cytrynowy. Przykryj blatem biszkoptu, nasącz. Wyłóż krem szampański i przykryj ostatnim bla­tem biszkoptowym,  nasącz resztą  ponczu. Tort schłodź  przez kilka godzin, a najle­piej przez całą noc. Obłóż kremem maślanym, wygładź i dowolnie udekoruj. Płynny drip z białej czekolady wylej na schłodzony tort."
             }
+        },
+        "P2T1": {
+            "NAME": "Ciasto drożdżowe z truskawkami",
+            "STEPS": {
+                "1": "Przygotować rozczyn: do miski wkruszyć drożdże, dodać łyżeczkę cukru i łyżeczkę mąki. Wlać ciepłe (nie gorące!) mleko i dokładnie wymieszać. Zostawić w ciepłym miejscu na ok. 25 minut, do kilkukrotnego (ok. 5 razy) powiększenia objętości (jeśli tak się nie stanie to proces przygotowania rozczynu trzeba powtórzyć od nowa).",
+                "2": "Jajka i żółtka wbić do oddzielnej miski, dodać cukier i dokładnie zmiksować mikserem.",
+                "3": "Do większej misy (najlepiej miksera planetarnego) przesiać mąkę. Zrobić wgłębienie w środku i wlać w nie urośnięty rozczyn. Większą łyżką zagarniać mąkę do środka mieszając ją z rozczynem. Po chwili zacząć stopniowo dodawać zmiksowane jajka, ciągle mieszając i zagarniając mąkę.",
+                "4": "Wymieszaną wstępnie masę wyrabiać dalej hakiem miksera (lub dłońmi) przez ok. 10-15 minut. Po tym czasie - ciągle wyrabiając - dodać partiami stopione i przestudzone masło. Wyrabiać jeszcze ok. 5 minut.",
+                "5": "Wyrobione ciasto przykryć ściereczką i odstawić w ciepłe miejsce na ok. 1,5 godziny. W tym czasie powinno znacznie (ok. 2-3 razy) powiększyć objętość.",
+                "6": "Przygotować kruszonkę: mąkę wsypać do miski, dodać drobno posiekane zimne masło i rozcierać palcami aż powstaną drobne okruszki, następnie połączyć składniki w jednolite ciasto.",
+                "7": "Formę o wymiarach 25x35 cm wysmarować masłem. Wyrośnięte ciasto wybrać z misy za pomocą szpatuły i przełożyć do formy starając się je delikatnie rozciągnąć i rozpłaszczyć aby wypełniło formę po brzegi.",
+                "8": "Na cieście równomiernie ułożyć ćwiartki truskawek. Po wierzchu posypać rozdrobnioną w palcach kruszonką. Tak przygotowane w formie ciasto zostawić jeszcze do podrośnięcia na ok. 25 minut (w tym czasie powinno podwoić swoją wysokość).",
+                "9": "Piekarnik nagrzać do 180 st. C (grzanie góra - dół bez termoobiegu). Wstawić ciasto i piec przez 35 minut.",
+                "10": "Po przestudzeniu ciasto można opcjonalnie polać lukrem (podgrzać sok z cytryny w garnuszku, gdy będzie gorący, odstawić z ognia i dodawać stopniowo cukier puder mieszając aż powstanie gładki lukier)."
+
+            }
         }
     },
     "APP_FOOTER": "Wszelkie prawa zastrzeżone"

@@ -4,7 +4,7 @@ mat-card {
 }
 
 ul > li {
-    text-align: center;
+    text-align: left;
 }
 
 @media screen and (max-width: 1400px) {
