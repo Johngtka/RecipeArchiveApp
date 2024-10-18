@@ -40,6 +40,16 @@ export function HttpLoaderFactory(httpClient: HttpClient) {
 const navigatorLang = navigator.language.split('-')[0];
 const supportedLang = ['pl', 'en'];
 const lang = supportedLang.includes(navigatorLang) ? navigatorLang : 'pl';
+const Recipes = [
+    P1T1Component,
+    P1T2Component,
+    P1T3Component,
+    P1T4Component,
+    P2T1Component,
+    P2T2Component,
+    P2T3Component,
+    P2T4Component,
+];
 const materialModules = [
     MatIconModule,
     MatCardModule,
@@ -52,18 +62,7 @@ const materialModules = [
 ];
 
 @NgModule({
-    declarations: [
-        AppComponent,
-        HomeComponent,
-        P1T1Component,
-        P1T2Component,
-        P1T3Component,
-        P1T4Component,
-        P2T1Component,
-        P2T2Component,
-        P2T3Component,
-        P2T4Component,
-    ],
+    declarations: [AppComponent, HomeComponent, ...Recipes],
     imports: [
         LayoutModule,
         BrowserModule,
