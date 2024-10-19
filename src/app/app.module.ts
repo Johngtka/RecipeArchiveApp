@@ -28,6 +28,10 @@ import { P1T1Component } from './p1-t1/p1-t1.component';
 import { P1T2Component } from './p1-t2/p1-t2.component';
 import { P1T3Component } from './p1-t3/p1-t3.component';
 import { P1T4Component } from './p1-t4/p1-t4.component';
+import { P2T1Component } from './p2-t1/p2-t1.component';
+import { P2T2Component } from './p2-t2/p2-t2.component';
+import { P2T3Component } from './p2-t3/p2-t3.component';
+import { P2T4Component } from './p2-t4/p2-t4.component';
 
 export function HttpLoaderFactory(httpClient: HttpClient) {
     return new TranslateHttpLoader(httpClient, './assets/i18n/');
@@ -36,6 +40,16 @@ export function HttpLoaderFactory(httpClient: HttpClient) {
 const navigatorLang = navigator.language.split('-')[0];
 const supportedLang = ['pl', 'en'];
 const lang = supportedLang.includes(navigatorLang) ? navigatorLang : 'pl';
+const Recipes = [
+    P1T1Component,
+    P1T2Component,
+    P1T3Component,
+    P1T4Component,
+    P2T1Component,
+    P2T2Component,
+    P2T3Component,
+    P2T4Component,
+];
 const materialModules = [
     MatIconModule,
     MatCardModule,
@@ -48,14 +62,7 @@ const materialModules = [
 ];
 
 @NgModule({
-    declarations: [
-        AppComponent,
-        HomeComponent,
-        P1T1Component,
-        P1T2Component,
-        P1T3Component,
-        P1T4Component,
-    ],
+    declarations: [AppComponent, HomeComponent, ...Recipes],
     imports: [
         LayoutModule,
         BrowserModule,

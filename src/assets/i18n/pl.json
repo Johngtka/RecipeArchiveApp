@@ -71,6 +71,54 @@
                 "5": "Do miski włóż posiekaną białą czekoladę i wlej śmietankę. Podgrzewaj w kąpieli wodnej tak, aby dno miski nie dotykało wody. Na koniec dodaj dowolny barwnik.",
                 "6": "Na paterze/talerzu/podkładzie  tortowym ułóż bezowy blat migdałowo-kokoso­wy. Wyłóż połowę  kremu  cytrynowego. Przykryj blatem  biszkoptowym,  nasączo­nym ⅓ ponczu  cytrynowego. Na blat biszkoptowy wyłóż pozostały krem cytrynowy. Przykryj blatem biszkoptu, nasącz. Wyłóż krem szampański i przykryj ostatnim bla­tem biszkoptowym,  nasącz resztą  ponczu. Tort schłodź  przez kilka godzin, a najle­piej przez całą noc. Obłóż kremem maślanym, wygładź i dowolnie udekoruj. Płynny drip z białej czekolady wylej na schłodzony tort."
             }
+        },
+        "P2T1": {
+            "NAME": "Ciasto drożdżowe z truskawkami",
+            "STEPS": {
+                "1": "Przygotować rozczyn: do miski wkruszyć drożdże, dodać łyżeczkę cukru i łyżeczkę mąki. Wlać ciepłe (nie gorące!) mleko i dokładnie wymieszać. Zostawić w ciepłym miejscu na ok. 25 minut, do kilkukrotnego (ok. 5 razy) powiększenia objętości (jeśli tak się nie stanie to proces przygotowania rozczynu trzeba powtórzyć od nowa).",
+                "2": "Jajka i żółtka wbić do oddzielnej miski, dodać cukier i dokładnie zmiksować mikserem.",
+                "3": "Do większej misy (najlepiej miksera planetarnego) przesiać mąkę. Zrobić wgłębienie w środku i wlać w nie urośnięty rozczyn. Większą łyżką zagarniać mąkę do środka mieszając ją z rozczynem. Po chwili zacząć stopniowo dodawać zmiksowane jajka, ciągle mieszając i zagarniając mąkę.",
+                "4": "Wymieszaną wstępnie masę wyrabiać dalej hakiem miksera (lub dłońmi) przez ok. 10-15 minut. Po tym czasie - ciągle wyrabiając - dodać partiami stopione i przestudzone masło. Wyrabiać jeszcze ok. 5 minut.",
+                "5": "Wyrobione ciasto przykryć ściereczką i odstawić w ciepłe miejsce na ok. 1,5 godziny. W tym czasie powinno znacznie (ok. 2-3 razy) powiększyć objętość.",
+                "6": "Przygotować kruszonkę: mąkę wsypać do miski, dodać drobno posiekane zimne masło i rozcierać palcami aż powstaną drobne okruszki, następnie połączyć składniki w jednolite ciasto.",
+                "7": "Formę o wymiarach 25x35 cm wysmarować masłem. Wyrośnięte ciasto wybrać z misy za pomocą szpatuły i przełożyć do formy starając się je delikatnie rozciągnąć i rozpłaszczyć aby wypełniło formę po brzegi.",
+                "8": "Na cieście równomiernie ułożyć ćwiartki truskawek. Po wierzchu posypać rozdrobnioną w palcach kruszonką. Tak przygotowane w formie ciasto zostawić jeszcze do podrośnięcia na ok. 25 minut (w tym czasie powinno podwoić swoją wysokość).",
+                "9": "Piekarnik nagrzać do 180 st. C (grzanie góra - dół bez termoobiegu). Wstawić ciasto i piec przez 35 minut.",
+                "10": "Po przestudzeniu ciasto można opcjonalnie polać lukrem (podgrzać sok z cytryny w garnuszku, gdy będzie gorący, odstawić z ognia i dodawać stopniowo cukier puder mieszając aż powstanie gładki lukier)."
+            }
+        },
+        "P2T2": {
+            "NAME": "Sernik Tradycyjny",
+            "STEPS": {
+                "1": "Miękkie masło ubić na puszysto, stopniowo dodawać po jednym żółtku na przemian z łyżką cukru pudru, cały czas dokładnie ubijając składniki.",
+                "2": "Zmniejszyć obroty miksera do średnich, dodać zmielony ser i połączyć. Teraz dodawać po kolei: cukier wanilinowy, śmietankę oraz mąkę ziemniaczaną cały czas miksując składniki na jednolitą masę. Na koniec wymieszać (delikatnie, ale dokładnie) z ubitymi na sztywno białkami.",
+                "3": "Przygotować tortownicę o średnicy minimum 26 cm (mierzona od środka). Posmarować ją masłem i wysypać bułką tartą lub mielonymi migdałami lub dno wyłożyć papierem do pieczenia.",
+                "4": "Masę serową wyłożyć do tortownicy i wstawić do piekarnika nagrzanego do 170 stopni C. Piec przez 60 minut. Sernik studzić stopniowo wyjmując z piekarnika (najpierw po trochu otwierając drzwiczki i lekko wysuwając sernik, w końcu wyjąć z piekarnika). Zrumieniony wierzch sernika posypać cukrem pudrem lub polać polewą czekoladową."
+            }
+        },
+        "P2T3": {
+            "NAME": "Brownie",
+            "STEPS": {
+                "1": "Piekarnik nagrzać do 160 stopni C. Przygotować małą prostokątną foremkę o wymiarach ok. 21 cm x 28 cm (lub o podobnej powierzchni). Posmarować ją masłem i wyłożyć papierem do pieczenia.",
+                "2": "Masło pokroić w kostkę i włożyć do rondelka, dodać połamaną na kosteczki czekoladę i cały czas mieszając roztopić na małym ogniu, odstawić z palnika.",
+                "3": "W oddzielnej misce rozmiksować lub wymieszać rózgą jajka z cukrem. Dodać do nich roztopioną czekoladę z masłem zmiksować lub wymieszać rózgą na gładką masę.",
+                "4": "Dodać mąkę oraz sól i zmiksować na jednolite ciasto. Wyłożyć do przygotowanej blaszki, wyrównać powierzchnię.",
+                "5": "Dodatkową czekoladę pokroić na kawałki i posypać po wierzchu ciasta.",
+                "6": "Wstawić do piekarnika i piec przez ok. 35 minut, aż ciasto lekko urośnie i na wierzchu utworzy się skorupka. Jeśli używamy większej blaszki, ciasto będzie gotowe szybciej, jeśli mniejszej - czas pieczenia należy wydłużyć. ",
+                "7": "Po upieczeniu i ostudzeniu pokroić na małe kawałeczki."
+            }
+        },
+        "P2T4": {
+            "NAME": "Sernik na zimno z musem truskawkowym",
+            "STEPS": {
+                "1": "Truskawki zmiksować blenderem na mus, następnie przetrzeć łyżką na sitku do czystego naczynia, pozbywając się pesteczek. Mus wymieszać z połową cukru pudru (50 g).",
+                "2": "Do rondelka wlać sok z cytryny, dodać około pół szklanki musu truskawkowego, wymieszać i podgrzewać aż będzie gorący. Odstawić z ognia, dodać żelatynę w proszku i mieszać do całkowitego rozpuszczenia się żelatyny. Na koniec połączyć z resztą musu.",
+                "3": "Ubić na sztywno zimną śmietankę z drugą połową cukru pudru (50 g), następnie wymieszać z twarogiem sernikowym.",
+                "4": "Przygotować formę o średnicy 23 cm. Ułożyć połówki biszkoptów (wypukłą stroną z cukrem na zewnątrz).",
+                "5": "Masę serową dodać do musu truskawkowego w 3 partiach, za każdym razem mieszając rózgą do połączenia się składników.",
+                "6": "Masę wylać do formy i wstawić do lodówki do zastygnięcia na kilka godzin.",
+                "7": "Udekorować ubitą z cukrem pudrem śmietanką oraz połówkami świeżych truskawek."
+            }
         }
     },
     "APP_FOOTER": "Wszelkie prawa zastrzeżone"
