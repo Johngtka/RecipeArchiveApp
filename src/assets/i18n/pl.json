@@ -119,6 +119,19 @@
                 "6": "Masę wylać do formy i wstawić do lodówki do zastygnięcia na kilka godzin.",
                 "7": "Udekorować ubitą z cukrem pudrem śmietanką oraz połówkami świeżych truskawek."
             }
+        },
+        "P3T1": {
+            "NAME": "Tarta z malinami i kremem mascarpone",
+            "STEPS": {
+                "1": "Formę na tartę o średnicy 24 cm posmarować grubo masłem. Mąkę przesiać do miski, dodać pokrojone w kosteczkę zimne masło, sól oraz cukier. Miksować mieszadłem miksera planetarnego lub rozcierać składniki palcami lub siekać nożem na desce aż powstaną drobne okruchy ciasta, dodać jajko i zmiksować lub ręką zacząć łączyć składniki w kulę. Gładką kulę z ciasta rozpłaszczyć na placek i włożyć do lodówki na około godzinę.",
+                "2": "Piekarnik nagrzać do 190 stopni. Ciasto rozwałkować na stolnicy na grubość około 1/2 cm. Możemy je rozwałkować podsypując mąką, ale najlepszą metodą jest wałkowanie na papierze do pieczenia (również oprószonym mąką).",
+                "3": "Ciasto razem z papierem przenosimy do formy, odwracamy papierem do góry i wykładamy nim dno oraz boki formy, odklejamy papier. Odcinamy nadmiar ciasta. Wstawiamy do lodówki na czas nagrzania piekarnika.",
+                "4": "Ciasto nakryć folią aluminiową (dno i boki), na spód wysypać obciążenie w postaci np. suchej fasoli lub ryżu (aby ciasto nie podnosiło się podczas pieczenia).",
+                "5": "Wstawić do nagrzanego piekarnika i piec przez 15 minut, następnie usunąć folię wraz z obciążeniem i piec przez kolejne 15 minut. Wyjąć z piekarnika. Piekarnik nastawić na 180 stopni.",
+                "6": "W misce zmiksować ser mascarpone z jajkami i mlekiem skondensowanym (krótko miksować, tylko do połączenia się składników).",
+                "7": "Delikatnie wylać na spód (może pozostać część masy) i wstawić do piekarnika. Piec przez około 15 minut, do czasu aż masa zastygnie.",
+                "8": "Wyjąć z piekarnika i od razu ułożyć w miarę gęsto maliny, delikatnie dociskając je do kremu."
+            }
         }
     },
     "APP_FOOTER": "Wszelkie prawa zastrzeżone"
