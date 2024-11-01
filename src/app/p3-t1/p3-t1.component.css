@@ -14,7 +14,7 @@ ul > li {
         width: 100% !important;
         height: fit-content !important;
         padding: 0% !important;
-        font-size: x-small !important;
+        font-size: small !important;
     }
 
     mat-card-content {

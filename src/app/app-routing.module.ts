@@ -66,11 +66,11 @@ const routes: Routes = [
         component: P3T2Component,
     },
     {
-        path: 'product/P3T1',
+        path: 'product/P3T3',
         component: P3T3Component,
     },
     {
-        path: 'product/P3T1',
+        path: 'product/P3T4',
         component: P3T4Component,
     },
 ];
