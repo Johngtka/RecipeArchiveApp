@@ -71,6 +71,101 @@
                 "5": "Do miski włóż posiekaną białą czekoladę i wlej śmietankę. Podgrzewaj w kąpieli wodnej tak, aby dno miski nie dotykało wody. Na koniec dodaj dowolny barwnik.",
                 "6": "Na paterze/talerzu/podkładzie  tortowym ułóż bezowy blat migdałowo-kokoso­wy. Wyłóż połowę  kremu  cytrynowego. Przykryj blatem  biszkoptowym,  nasączo­nym ⅓ ponczu  cytrynowego. Na blat biszkoptowy wyłóż pozostały krem cytrynowy. Przykryj blatem biszkoptu, nasącz. Wyłóż krem szampański i przykryj ostatnim bla­tem biszkoptowym,  nasącz resztą  ponczu. Tort schłodź  przez kilka godzin, a najle­piej przez całą noc. Obłóż kremem maślanym, wygładź i dowolnie udekoruj. Płynny drip z białej czekolady wylej na schłodzony tort."
             }
+        },
+        "P2T1": {
+            "NAME": "Ciasto drożdżowe z truskawkami",
+            "STEPS": {
+                "1": "Przygotować rozczyn: do miski wkruszyć drożdże, dodać łyżeczkę cukru i łyżeczkę mąki. Wlać ciepłe (nie gorące!) mleko i dokładnie wymieszać. Zostawić w ciepłym miejscu na ok. 25 minut, do kilkukrotnego (ok. 5 razy) powiększenia objętości (jeśli tak się nie stanie to proces przygotowania rozczynu trzeba powtórzyć od nowa).",
+                "2": "Jajka i żółtka wbić do oddzielnej miski, dodać cukier i dokładnie zmiksować mikserem.",
+                "3": "Do większej misy (najlepiej miksera planetarnego) przesiać mąkę. Zrobić wgłębienie w środku i wlać w nie urośnięty rozczyn. Większą łyżką zagarniać mąkę do środka mieszając ją z rozczynem. Po chwili zacząć stopniowo dodawać zmiksowane jajka, ciągle mieszając i zagarniając mąkę.",
+                "4": "Wymieszaną wstępnie masę wyrabiać dalej hakiem miksera (lub dłońmi) przez ok. 10-15 minut. Po tym czasie - ciągle wyrabiając - dodać partiami stopione i przestudzone masło. Wyrabiać jeszcze ok. 5 minut.",
+                "5": "Wyrobione ciasto przykryć ściereczką i odstawić w ciepłe miejsce na ok. 1,5 godziny. W tym czasie powinno znacznie (ok. 2-3 razy) powiększyć objętość.",
+                "6": "Przygotować kruszonkę: mąkę wsypać do miski, dodać drobno posiekane zimne masło i rozcierać palcami aż powstaną drobne okruszki, następnie połączyć składniki w jednolite ciasto.",
+                "7": "Formę o wymiarach 25x35 cm wysmarować masłem. Wyrośnięte ciasto wybrać z misy za pomocą szpatuły i przełożyć do formy starając się je delikatnie rozciągnąć i rozpłaszczyć aby wypełniło formę po brzegi.",
+                "8": "Na cieście równomiernie ułożyć ćwiartki truskawek. Po wierzchu posypać rozdrobnioną w palcach kruszonką. Tak przygotowane w formie ciasto zostawić jeszcze do podrośnięcia na ok. 25 minut (w tym czasie powinno podwoić swoją wysokość).",
+                "9": "Piekarnik nagrzać do 180 st. C (grzanie góra - dół bez termoobiegu). Wstawić ciasto i piec przez 35 minut.",
+                "10": "Po przestudzeniu ciasto można opcjonalnie polać lukrem (podgrzać sok z cytryny w garnuszku, gdy będzie gorący, odstawić z ognia i dodawać stopniowo cukier puder mieszając aż powstanie gładki lukier)."
+            }
+        },
+        "P2T2": {
+            "NAME": "Sernik Tradycyjny",
+            "STEPS": {
+                "1": "Miękkie masło ubić na puszysto, stopniowo dodawać po jednym żółtku na przemian z łyżką cukru pudru, cały czas dokładnie ubijając składniki.",
+                "2": "Zmniejszyć obroty miksera do średnich, dodać zmielony ser i połączyć. Teraz dodawać po kolei: cukier wanilinowy, śmietankę oraz mąkę ziemniaczaną cały czas miksując składniki na jednolitą masę. Na koniec wymieszać (delikatnie, ale dokładnie) z ubitymi na sztywno białkami.",
+                "3": "Przygotować tortownicę o średnicy minimum 26 cm (mierzona od środka). Posmarować ją masłem i wysypać bułką tartą lub mielonymi migdałami lub dno wyłożyć papierem do pieczenia.",
+                "4": "Masę serową wyłożyć do tortownicy i wstawić do piekarnika nagrzanego do 170 stopni C. Piec przez 60 minut. Sernik studzić stopniowo wyjmując z piekarnika (najpierw po trochu otwierając drzwiczki i lekko wysuwając sernik, w końcu wyjąć z piekarnika). Zrumieniony wierzch sernika posypać cukrem pudrem lub polać polewą czekoladową."
+            }
+        },
+        "P2T3": {
+            "NAME": "Brownie",
+            "STEPS": {
+                "1": "Piekarnik nagrzać do 160 stopni C. Przygotować małą prostokątną foremkę o wymiarach ok. 21 cm x 28 cm (lub o podobnej powierzchni). Posmarować ją masłem i wyłożyć papierem do pieczenia.",
+                "2": "Masło pokroić w kostkę i włożyć do rondelka, dodać połamaną na kosteczki czekoladę i cały czas mieszając roztopić na małym ogniu, odstawić z palnika.",
+                "3": "W oddzielnej misce rozmiksować lub wymieszać rózgą jajka z cukrem. Dodać do nich roztopioną czekoladę z masłem zmiksować lub wymieszać rózgą na gładką masę.",
+                "4": "Dodać mąkę oraz sól i zmiksować na jednolite ciasto. Wyłożyć do przygotowanej blaszki, wyrównać powierzchnię.",
+                "5": "Dodatkową czekoladę pokroić na kawałki i posypać po wierzchu ciasta.",
+                "6": "Wstawić do piekarnika i piec przez ok. 35 minut, aż ciasto lekko urośnie i na wierzchu utworzy się skorupka. Jeśli używamy większej blaszki, ciasto będzie gotowe szybciej, jeśli mniejszej - czas pieczenia należy wydłużyć. ",
+                "7": "Po upieczeniu i ostudzeniu pokroić na małe kawałeczki."
+            }
+        },
+        "P2T4": {
+            "NAME": "Sernik na zimno z musem truskawkowym",
+            "STEPS": {
+                "1": "Truskawki zmiksować blenderem na mus, następnie przetrzeć łyżką na sitku do czystego naczynia, pozbywając się pesteczek. Mus wymieszać z połową cukru pudru (50 g).",
+                "2": "Do rondelka wlać sok z cytryny, dodać około pół szklanki musu truskawkowego, wymieszać i podgrzewać aż będzie gorący. Odstawić z ognia, dodać żelatynę w proszku i mieszać do całkowitego rozpuszczenia się żelatyny. Na koniec połączyć z resztą musu.",
+                "3": "Ubić na sztywno zimną śmietankę z drugą połową cukru pudru (50 g), następnie wymieszać z twarogiem sernikowym.",
+                "4": "Przygotować formę o średnicy 23 cm. Ułożyć połówki biszkoptów (wypukłą stroną z cukrem na zewnątrz).",
+                "5": "Masę serową dodać do musu truskawkowego w 3 partiach, za każdym razem mieszając rózgą do połączenia się składników.",
+                "6": "Masę wylać do formy i wstawić do lodówki do zastygnięcia na kilka godzin.",
+                "7": "Udekorować ubitą z cukrem pudrem śmietanką oraz połówkami świeżych truskawek."
+            }
+        },
+        "P3T1": {
+            "NAME": "Tarta truskawkowa Stracciatella",
+            "STEPS": {
+                "1": "Mąkę przesiać do miski, dodać pokrojone w kosteczkę zimne masło, sól oraz cukier puder. Rozcierać składniki palcami lub siekać nożem na stolnicy, aż powstaną drobne okruszki ciasta.",
+                "2": "Wówczas dodać żółtko i zagnieść ciasto łącząc składniki w gładką i jednolitą kulę. W razie potrzeby można dodać troszkę białka lub zimnej wody. Włożyć do lodówki na około 30 - 60 minut.",
+                "3": "Przygotować formę na tartę o średnicy 24 - 26 cm. Wyjąć ciasto z lodówki i rozwałkować na stolnicy podsypanej mąką na placek o grubości około 1/2 cm.",
+                "4": "Placek przenieść do formy i wyłożyć nim spód oraz boki formy, starając się jak najmniej ugniatać ciasto palacami. Spód podziurkować widelcem. Wstawić do lodówki na czas nagrzania piekarnika do 190 stopni C.",
+                "5": "Ciasto nakryć folią aluminiową (dno i boki), na spód wysypać obciążenie w postaci np. suchej fasoli lub ryżu (aby ciasto nie podnosiło się podczas pieczenia).",
+                "6": "Wstawić do nagrzanego piekarnika i piec przez 15 minut, następnie usunąć folię wraz z obciążeniem i piec przez kolejne 15 minut lub na złoty kolor. Wyjąć z piekarnika i całkowicie ostudzić.",
+                "7": "Zimne mascarpone, śmietankę, cukier puder oraz cukier wanilinowy umieścić w misce. Ubijać przez ok. 3 minuty aż krem zwiększy objętość i będzie gęsty oraz puszysty. Pod koniec dodać śmietan-fix. Wymieszać z drobno posiekaną czekoladą i wyłożyć na spód.",
+                "8": "Truskawki pokroić na plasterki i ułożyć na wierzchu tarty."
+            }
+        },
+        "P3T2": {
+            "NAME": "Tarta z budyniem, porzeczkami i bezą",
+            "STEPS": {
+                "1": "Zagnieść ciasto kruche: wymieszać mąkę z cukrem, dodać pokrojone w kosteczkę zimne masło i miksować składniki mieszadłem lub rozcierać palcami lub siekać nożem na stolnicy aż powstanie drobna i sypka kruszonka. Dodać żółtka i połączyć składniki w jednolite ciasto. Rozpłaszczyć je, zawinąć w folię i włożyć do lodówki na 1 godzinę.",
+                "2": "Formę na tartę o średnicy 24 cm wysmarować grubo masłem.",
+                "3": "Ciasto rozwałkować podsypując w razie potrzeby mąką i wylepić nim spód i boki formy, spód podziurkować widelcem. Wstawić do lodówki na 15 minut. Piekarnik nagrzać do 190 stopni C. Ciasto przykryć folią aluminiową (spód i boki), wyłożyć obciążenie w postaci np. ceramicznych kulek lub suchego ryżu czy fasoli. Wstawić do piekarnika i piec przez 15 minut. Usunąć obciążenie i folię i piec aż ciasto będzie zrumienione przez ok. 15 minut. Wyjąć z piekarnika. Nastawić 170 stopni C.",
+                "4": "W czasie gdy piecze się spód ugotować budyń, pamiętając o dokładnym zagotowaniu mleka przed dodaniem rozpuszczonego proszku.",
+                "5": "Po wyjęciu spodu z piekarnika zacząć przygotowywać bezę. Białka ubić na sztywną pianę, następnie stopniowo, po łyżce dodawać cukier, cały czas ubijając białka, na koniec mają być sztywne i błyszczące. Dodać mąkę ziemniaczaną i dokładnie zmiksować.",
+                "6": "Na upieczony spód wyłożyć budyń, owoce wymieszane z mąką ziemniaczaną oraz bezę. Wstawić do piekarnika i piec przez 25 minut w 170 stopniach C. Następnie ustawić 60 stopni i termoobieg i suszyć bezę jeszcze przez ok. 15 minut. Wyjąć i ostudzić przed pokrojeniem."
+            }
+        },
+        "P3T3": {
+            "NAME": "Tarta czekoladowa na spodzie orzechowym z sosem malinowym",
+            "STEPS": {
+                "1": "Rozdrobnić orzechy i wymieszać je z pozostałymi składnikami spodu (można też wszystko zmiksować w melakserze).",
+                "2": "Powstałą masą wyłożyć niewielką, okrągą formę o średnicy 15 cm. Piec przez 5 minut w temperaturze 200 stopni. Całkowicie ostudzić.",
+                "3": "Czekoladę drobno posiekać. Śmietankę doprowadzić do wrzenia razem z masłem, następnie wlać ją do czekolady. Mieszać do momentu, aż czekolada całkowicie się rozpuści. Dodać żółtko i dobrze wymieszać.",
+                "4": "Wylać masę czekoladową na wystudzony spód z orzechów i schłodzić w lodówce przez minimum 2 godziny.",
+                "5": "Maliny krótko zmiksować z cukrem pudrem, następnie przetrzeć przez sitko. Polewać kawałki deseru już na talerzykach."
+            }
+        },
+        "P3T4": {
+            "NAME": "Tarta z malinami i kremem mascarpone",
+            "STEPS": {
+                "1": "Formę na tartę o średnicy 24 cm posmarować grubo masłem. Mąkę przesiać do miski, dodać pokrojone w kosteczkę zimne masło, sól oraz cukier. Miksować mieszadłem miksera planetarnego lub rozcierać składniki palcami lub siekać nożem na desce aż powstaną drobne okruchy ciasta, dodać jajko i zmiksować lub ręką zacząć łączyć składniki w kulę. Gładką kulę z ciasta rozpłaszczyć na placek i włożyć do lodówki na około godzinę.",
+                "2": "Piekarnik nagrzać do 190 stopni. Ciasto rozwałkować na stolnicy na grubość około 1/2 cm. Możemy je rozwałkować podsypując mąką, ale najlepszą metodą jest wałkowanie na papierze do pieczenia (również oprószonym mąką).",
+                "3": "Ciasto razem z papierem przenosimy do formy, odwracamy papierem do góry i wykładamy nim dno oraz boki formy, odklejamy papier. Odcinamy nadmiar ciasta. Wstawiamy do lodówki na czas nagrzania piekarnika.",
+                "4": "Ciasto nakryć folią aluminiową (dno i boki), na spód wysypać obciążenie w postaci np. suchej fasoli lub ryżu (aby ciasto nie podnosiło się podczas pieczenia).",
+                "5": "Wstawić do nagrzanego piekarnika i piec przez 15 minut, następnie usunąć folię wraz z obciążeniem i piec przez kolejne 15 minut. Wyjąć z piekarnika. Piekarnik nastawić na 180 stopni.",
+                "6": "W misce zmiksować ser mascarpone z jajkami i mlekiem skondensowanym (krótko miksować, tylko do połączenia się składników).",
+                "7": "Delikatnie wylać na spód (może pozostać część masy) i wstawić do piekarnika. Piec przez około 15 minut, do czasu aż masa zastygnie.",
+                "8": "Wyjąć z piekarnika i od razu ułożyć w miarę gęsto maliny, delikatnie dociskając je do kremu."
+            }
         }
     },
     "APP_FOOTER": "Wszelkie prawa zastrzeżone"
