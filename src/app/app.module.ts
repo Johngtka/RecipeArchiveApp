@@ -32,6 +32,10 @@ import { P2T1Component } from './p2-t1/p2-t1.component';
 import { P2T2Component } from './p2-t2/p2-t2.component';
 import { P2T3Component } from './p2-t3/p2-t3.component';
 import { P2T4Component } from './p2-t4/p2-t4.component';
+import { P3T1Component } from './p3-t1/p3-t1.component';
+import { P3T2Component } from './p3-t2/p3-t2.component';
+import { P3T3Component } from './p3-t3/p3-t3.component';
+import { P3T4Component } from './p3-t4/p3-t4.component';
 
 export function HttpLoaderFactory(httpClient: HttpClient) {
     return new TranslateHttpLoader(httpClient, './assets/i18n/');
@@ -49,6 +53,10 @@ const Recipes = [
     P2T2Component,
     P2T3Component,
     P2T4Component,
+    P3T1Component,
+    P3T2Component,
+    P3T3Component,
+    P3T4Component,
 ];
 const materialModules = [
     MatIconModule,
