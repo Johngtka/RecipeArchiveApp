@@ -178,6 +178,15 @@
                 "6": "Nabierać po około 2 łyżki masy, uformować 18 kulek i ułożyć je na 2 blaszkach do pieczenia. Odrobinę spłaszczyć palcami wierzch każdej kulki.",
                 "7": "Pierwszą blaszkę z ciastkami wstawić do piekarnika i piec przez 15 minut (aż brzegi ciastek zaczną się rumienić). Ciastka wyjmujemy z piekarnika gdy są jeszcze miękkie, a zastygają po ostudzeniu. Upiec drugą partię ciastek."
             }
+        },
+        "P4T2":{
+          "NAME": "Ciasteczka owsiane z Ziarnami",
+            "STEPS": {
+                "1": "Masło roztopić. Do czystej miski wsypać płatki owsiane, mąkę, cukier, proszek do pieczenia i ziarna.",
+                "2": "Wlać roztopione masło i wymieszać. Dodać jajka oraz miód jeśli używamy i wymieszać. Jeśli mamy czas, dobrze jest odstawić masę na ok. 1/2 - 1 godzinę.",
+                "3": "Piekarnik nagrzać do 180 stopni C. Blachę wyłożyć papierem do pieczenia. Nabierać łyżkę stołową masy i nakładać na blaszkę formując okręgi i delikatnie je płaszczając.",
+                "4": "Piec przez ok. 15 minut na złoty kolor."
+            }
         }
     },
     "APP_FOOTER": "Wszelkie prawa zastrzeżone"
