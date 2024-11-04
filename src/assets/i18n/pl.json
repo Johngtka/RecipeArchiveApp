@@ -166,6 +166,18 @@
                 "7": "Delikatnie wylać na spód (może pozostać część masy) i wstawić do piekarnika. Piec przez około 15 minut, do czasu aż masa zastygnie.",
                 "8": "Wyjąć z piekarnika i od razu ułożyć w miarę gęsto maliny, delikatnie dociskając je do kremu."
             }
+        },
+        "P4T1":{
+          "NAME": "Ciasteczka z kawałkami czekolady",
+            "STEPS": {
+                "1": "Piekarnik nagrzać do 160 stopni C. Przygotować 2 duże blaszki do pieczenia i wyłożyć je papierem do pieczenia (ewentualnie można użyć 1 blaszki i piec jedną porcję po drugiej).",
+                "2": "Mąkę przesiać do miski, dodać sól, sodę lub proszek, cukier wanilinowy i wymieszać.",
+                "3": "W drugiej misce ubijać masło z dodatkiem cukru białego i trzcinowego przez około 5 minut. Dodać jajko i ubijać jeszcze przez około 5 minut.",
+                "4": "Dodać sypkie składniki i zmiksować lub wymieszać.",
+                "5": "Dodać posiekaną czekoladę (każdą kosteczkę pokroić na 4 kawałeczki) i wymieszać łyżką.",
+                "6": "Nabierać po około 2 łyżki masy, uformować 18 kulek i ułożyć je na 2 blaszkach do pieczenia. Odrobinę spłaszczyć palcami wierzch każdej kulki.",
+                "7": "Pierwszą blaszkę z ciastkami wstawić do piekarnika i piec przez 15 minut (aż brzegi ciastek zaczną się rumienić). Ciastka wyjmujemy z piekarnika gdy są jeszcze miękkie, a zastygają po ostudzeniu. Upiec drugą partię ciastek."
+            }
         }
     },
     "APP_FOOTER": "Wszelkie prawa zastrzeżone"
