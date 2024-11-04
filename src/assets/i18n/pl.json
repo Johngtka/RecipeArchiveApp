@@ -187,6 +187,24 @@
                 "3": "Piekarnik nagrzać do 180 stopni C. Blachę wyłożyć papierem do pieczenia. Nabierać łyżkę stołową masy i nakładać na blaszkę formując okręgi i delikatnie je płaszczając.",
                 "4": "Piec przez ok. 15 minut na złoty kolor."
             }
+        },
+        "P4T3":{
+          "NAME": "Ciasteczka owsiane z Bakaliami",
+            "STEPS": {
+                "1": "Piekarnik nagrzać do 150 stopni C. Do miski wsypać mielone migdały, mąkę oraz sodę oczyszczoną, wymieszać. Dodać płatki owsiane, wiórki kokosowe oraz mieszankę rodzynek i żurawiny, wymieszać.",
+                "2": "W rondelku roztopić masło z miodem oraz z 1 łyżką wody. Przelać do miski z sypkimi składnikami i dokładnie wymieszać.",
+                "3": "Z powstałej masy ulepić kulki (ok. 3 cm średnicy) następnie spłaszczyć je i uformować kształt dysku (średnica ok. 4 cm i grubość 1,5 cm). Ułożyć na blaszce wyłożonej papierem do pieczenia z zachowaniem odstępów.",
+                "4": "Wstawić do piekarnika i piec przez 15 minut."
+            }
+        },
+        "P4T4":{
+          "NAME": "Włoskie ciasteczka Cantuccini",
+            "STEPS": {
+                "1": "50 g migdałów drobno siekamy i łączymy w misce z mąką przesianą przez sitko. Dodajemy szczyptę soli, proszek do pieczenia, cukier trzcinowy oraz skórkę otartą z 1 cytryny, 2 duże jaja oraz 50 g całych migdałów. Ciasto zagniatamy na jednolitą masę.",
+                "2": "Z tak przygotowanego ciasta formujemy wałek o średnicy 3-4 cm i przekładamy go na blaszkę wyłożoną papierem do pieczenia, a następnie wstawiamy ją do piekarnika nagrzanego do 180°C na 30 minut.",
+                "3": "Po upływie tego czasu ostrożnie przekładamy ciasto na deskę do krojenia. Bardzo ostrym nożem kroimy plastry grubości 1,5 cm. Układamy je na blaszce i ponownie wstawiamy do piekarnika nagrzanego do 160°C. Pieczemy przez 10-12 minut, po czym przewracamy ciasteczka na drugą stronę i ponownie pieczemy przez kolejne 10-12 minut.",
+                "4": "Można je jeść, maczając w kawie lub słodkim winie."
+            }
         }
     },
     "APP_FOOTER": "Wszelkie prawa zastrzeżone"
