@@ -14,6 +14,10 @@ import { P3T1Component } from './p3-t1/p3-t1.component';
 import { P3T2Component } from './p3-t2/p3-t2.component';
 import { P3T3Component } from './p3-t3/p3-t3.component';
 import { P3T4Component } from './p3-t4/p3-t4.component';
+import { P4T1Component } from './p4-t1/p4-t1.component';
+import { P4T2Component } from './p4-t2/p4-t2.component';
+import { P4T3Component } from './p4-t3/p4-t3.component';
+import { P4T4Component } from './p4-t4/p4-t4.component';
 
 const routes: Routes = [
     {
@@ -72,6 +76,22 @@ const routes: Routes = [
     {
         path: 'product/P3T4',
         component: P3T4Component,
+    },
+    {
+        path: 'product/P4T1',
+        component: P4T1Component,
+    },
+    {
+        path: 'product/P4T2',
+        component: P4T2Component,
+    },
+    {
+        path: 'product/P4T3',
+        component: P4T3Component,
+    },
+    {
+        path: 'product/P4T4',
+        component: P4T4Component,
     },
 ];
 
