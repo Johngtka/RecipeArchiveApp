@@ -36,6 +36,10 @@ import { P3T1Component } from './p3-t1/p3-t1.component';
 import { P3T2Component } from './p3-t2/p3-t2.component';
 import { P3T3Component } from './p3-t3/p3-t3.component';
 import { P3T4Component } from './p3-t4/p3-t4.component';
+import { P4T1Component } from './p4-t1/p4-t1.component';
+import { P4T2Component } from './p4-t2/p4-t2.component';
+import { P4T3Component } from './p4-t3/p4-t3.component';
+import { P4T4Component } from './p4-t4/p4-t4.component';
 
 export function HttpLoaderFactory(httpClient: HttpClient) {
     return new TranslateHttpLoader(httpClient, './assets/i18n/');
@@ -70,7 +74,7 @@ const materialModules = [
 ];
 
 @NgModule({
-    declarations: [AppComponent, HomeComponent, ...Recipes],
+    declarations: [AppComponent, HomeComponent, ...Recipes, P4T1Component, P4T2Component, P4T3Component, P4T4Component],
     imports: [
         LayoutModule,
         BrowserModule,

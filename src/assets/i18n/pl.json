@@ -166,6 +166,45 @@
                 "7": "Delikatnie wylać na spód (może pozostać część masy) i wstawić do piekarnika. Piec przez około 15 minut, do czasu aż masa zastygnie.",
                 "8": "Wyjąć z piekarnika i od razu ułożyć w miarę gęsto maliny, delikatnie dociskając je do kremu."
             }
+        },
+        "P4T1":{
+          "NAME": "Ciasteczka z kawałkami czekolady",
+            "STEPS": {
+                "1": "Piekarnik nagrzać do 160 stopni C. Przygotować 2 duże blaszki do pieczenia i wyłożyć je papierem do pieczenia (ewentualnie można użyć 1 blaszki i piec jedną porcję po drugiej).",
+                "2": "Mąkę przesiać do miski, dodać sól, sodę lub proszek, cukier wanilinowy i wymieszać.",
+                "3": "W drugiej misce ubijać masło z dodatkiem cukru białego i trzcinowego przez około 5 minut. Dodać jajko i ubijać jeszcze przez około 5 minut.",
+                "4": "Dodać sypkie składniki i zmiksować lub wymieszać.",
+                "5": "Dodać posiekaną czekoladę (każdą kosteczkę pokroić na 4 kawałeczki) i wymieszać łyżką.",
+                "6": "Nabierać po około 2 łyżki masy, uformować 18 kulek i ułożyć je na 2 blaszkach do pieczenia. Odrobinę spłaszczyć palcami wierzch każdej kulki.",
+                "7": "Pierwszą blaszkę z ciastkami wstawić do piekarnika i piec przez 15 minut (aż brzegi ciastek zaczną się rumienić). Ciastka wyjmujemy z piekarnika gdy są jeszcze miękkie, a zastygają po ostudzeniu. Upiec drugą partię ciastek."
+            }
+        },
+        "P4T2":{
+          "NAME": "Ciasteczka owsiane z Ziarnami",
+            "STEPS": {
+                "1": "Masło roztopić. Do czystej miski wsypać płatki owsiane, mąkę, cukier, proszek do pieczenia i ziarna.",
+                "2": "Wlać roztopione masło i wymieszać. Dodać jajka oraz miód jeśli używamy i wymieszać. Jeśli mamy czas, dobrze jest odstawić masę na ok. 1/2 - 1 godzinę.",
+                "3": "Piekarnik nagrzać do 180 stopni C. Blachę wyłożyć papierem do pieczenia. Nabierać łyżkę stołową masy i nakładać na blaszkę formując okręgi i delikatnie je płaszczając.",
+                "4": "Piec przez ok. 15 minut na złoty kolor."
+            }
+        },
+        "P4T3":{
+          "NAME": "Ciasteczka owsiane z Bakaliami",
+            "STEPS": {
+                "1": "Piekarnik nagrzać do 150 stopni C. Do miski wsypać mielone migdały, mąkę oraz sodę oczyszczoną, wymieszać. Dodać płatki owsiane, wiórki kokosowe oraz mieszankę rodzynek i żurawiny, wymieszać.",
+                "2": "W rondelku roztopić masło z miodem oraz z 1 łyżką wody. Przelać do miski z sypkimi składnikami i dokładnie wymieszać.",
+                "3": "Z powstałej masy ulepić kulki (ok. 3 cm średnicy) następnie spłaszczyć je i uformować kształt dysku (średnica ok. 4 cm i grubość 1,5 cm). Ułożyć na blaszce wyłożonej papierem do pieczenia z zachowaniem odstępów.",
+                "4": "Wstawić do piekarnika i piec przez 15 minut."
+            }
+        },
+        "P4T4":{
+          "NAME": "Włoskie ciasteczka Cantuccini",
+            "STEPS": {
+                "1": "50 g migdałów drobno siekamy i łączymy w misce z mąką przesianą przez sitko. Dodajemy szczyptę soli, proszek do pieczenia, cukier trzcinowy oraz skórkę otartą z 1 cytryny, 2 duże jaja oraz 50 g całych migdałów. Ciasto zagniatamy na jednolitą masę.",
+                "2": "Z tak przygotowanego ciasta formujemy wałek o średnicy 3-4 cm i przekładamy go na blaszkę wyłożoną papierem do pieczenia, a następnie wstawiamy ją do piekarnika nagrzanego do 180°C na 30 minut.",
+                "3": "Po upływie tego czasu ostrożnie przekładamy ciasto na deskę do krojenia. Bardzo ostrym nożem kroimy plastry grubości 1,5 cm. Układamy je na blaszce i ponownie wstawiamy do piekarnika nagrzanego do 160°C. Pieczemy przez 10-12 minut, po czym przewracamy ciasteczka na drugą stronę i ponownie pieczemy przez kolejne 10-12 minut.",
+                "4": "Można je jeść, maczając w kawie lub słodkim winie."
+            }
         }
     },
     "APP_FOOTER": "Wszelkie prawa zastrzeżone"
