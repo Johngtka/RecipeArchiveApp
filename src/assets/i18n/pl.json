@@ -205,6 +205,45 @@
                 "3": "Po upływie tego czasu ostrożnie przekładamy ciasto na deskę do krojenia. Bardzo ostrym nożem kroimy plastry grubości 1,5 cm. Układamy je na blaszce i ponownie wstawiamy do piekarnika nagrzanego do 160°C. Pieczemy przez 10-12 minut, po czym przewracamy ciasteczka na drugą stronę i ponownie pieczemy przez kolejne 10-12 minut.",
                 "4": "Można je jeść, maczając w kawie lub słodkim winie."
             }
+        },
+        "P5T1":{
+          "NAME": "Bułka Przenna",
+            "STEPS": {
+                "1": "Z ciepłego mleka, drożdży, cukru i łyżki mąki zrobić zaczyn i odstawić do podrośnięcia w ciepłe miejsce na około 10 minut. Do mąki dodać zaczyn, wodę, sól i wyrabiając stopniowo dodać stopione masło. Wyrabiać ciasto (ręcznie, w automacie do chleba lub robocie) do czasu, aż ciasto będzie elastyczne i gładkie. Wyrobione ciasto odstawić do podrośnięcia na około 1 godzinę.",
+                "2": "Po tym czasie, ciasto chwilę wyrobić i podzielić na równe porcje. Formować kulki i układać na blaszce wyłożonej papierem do pieczenia zlepieniami do dołu. Bułki przykryć czystą ścierką i odstawić do podrośnięcia na około 30 minut.",
+                "3": "Każdą kulkę lekko spłaszczyć i w środku (za pomocą tępej strony noża) zrobić wgłębienie, 'nacinając' prawie do spodu.",
+                "4": "Bułki wstawić do nagrzanego do 200 stopni piekarnika na około 20 minut lub do czasu, aż zrobią się rumiane. Studzić na kratce."
+            }
+        },
+        "P5T2":{
+          "NAME": "Bułka Kajzerka",
+            "STEPS": {
+                "1": "Wszystkie składniki przełożyć do miski i zagnieść. Od momentu, gdy ciasto zacznie ładnie odchodzić od miski wyrabiać jeszcze ok. 5 minut. Ciasto odstawić na 10 minut. Po tym czasie wyrobić ponownie przez ok. 5 minut. Ciasto powinno być prężne, o wyglądzie i konsystencji plasteliny. Ciasto przełożyć do miski lekko wysmarowanej olejem. Miskę z ciastem przykryć ściereczką i pozostawić na ok. 1 godzinę w ciepłym miejscu do wyrośnięcia.",
+                "2": "Wyrośnięte ciasto podzielić na 8 części. Z każdej części uformować bułkę, ułożyć na blasze wyłożonej papierem do pieczenia, lekko spłaszczyć ręką, przykryć i pozostawić na ok. 45 minut do wyrośnięcia. (Nie dłużej, bo się za bardzo napuszą i stracą konsystencję kajzerek).",
+                "3": "Wyrośnięte bułki można naciąć. (Polecam żyletkę, ale może być też ostry nóż).",
+                "4": "Bułki piec w nagrzanym piekarniku ok. 15- 17 minut w temperaturze 225°C, grzałka góra- dół."
+            }
+        },
+        "P5T3":{
+          "NAME": "Bułka Ciabatta",
+            "STEPS": {
+                "1": "Mąkę, sól oraz drożdże wymieszaj w misie miksera. Zrób zagłębienie na środku i wlej tam 300 ml wody. Miskuj wszystko na wolnych obrotach miksera, aż składniki się połączą.",
+                "2": "Następnie wlej do ciasta pozostałe 100 ml wody i miksuj przez kolejne 5 – 8 minut. Ciasto powinno być luźne, ale jednolite.",
+                "3": "Przełóż (a właściwie przelej) gotowe ciasto do misy wysmarowanej oliwą lub olejem, przykry szczelnie folią spożywczą i odstaw do wyrastania w temperaturze pokojowej. Powinno co najmniej podwoić objętość (u mnie trwało to około 1 godziny).",
+                "4": "Blat oprósz obficie mąką i wyłóż na niego wyrośnięte ciasto, po czym posyp je też obficie po wierzchu. Będzie się mocno rozlewało na boki, więc staraj sie pracować szybko i sprawnie. Pomagając sobie np. szpatułką zagarniaj ciasto od brzegów, żeby się nie rozlewało na boki. W razie potrzeby podsyp nieco więcej mąki. Postaraj się uformować coś na kształt prostokąta (spokojnie, nie musi być idealny), a następnie podziel ciasto na 4 części.",
+                "5": "Każdą z części rozciągnij nieco na taki płaski owal/prostokąt i przełóż ostrożnie na blachę wyłożoną papierem do pieczenia (u mnie weszły po 2 na blachę. Możesz je potem uformować, podkładając brzegi pod spód, żeby były bardziej równe."
+            }
+        },
+        "P5T4":{
+          "NAME": "Bułka Ciabatta",
+            "STEPS": {
+                "1": "Mleko podgrzewamy , aby było letnie. Rozpuszczamy w nim drożdże i łyżeczkę cukru. Niech odstoi około 10 minut.",
+                "2": "W dużej misce przesiewamy przez sitko mąki i mieszamy je łyżką.",
+                "3": "Wszystkie ziarenka wsypujemy na patelnię , posypujemy 3 łyżkami cukru i podprażamy , aż cukier się rozpuści.",
+                "4": "Nasiona jeszcze ciepłe wsypujemy do mąki i mieszamy wszystko razem.",
+                "5": "Jajko rozkłócamy w miseczce. Do mąki dodajemy mleko z drożdżami i jajko. Wyrabiamy , ciasto ma być elastyczne, jeżeli za mało mąki, podsypujemy. Ciasto ma być na tyle zwarte , byśmy mogli z niego formować bułeczki. Odstawiamy do wyrośnięcia na godzinkę.",
+                "6": "Po godzinie ponownie wyrabiamy ciasto - krótko. Blaszkę do piekarnika smarujemy olejem. Formujemy bułeczki, wielkości jabłka. U mnie wyszło 9 bułek. Kładziemy na blasze. Bułki można posmarować białkiem , olejem lub wodą. Posypujemy do dekoracji płatkami owsianymi. Odstawiamy do wyrośnięcia na 10 minut. Pieczemy w temperaturze 200 stopni 25 - 30 minut."
+            }
         }
     },
     "APP_FOOTER": "Wszelkie prawa zastrzeżone"
