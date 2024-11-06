@@ -40,6 +40,10 @@ import { P4T1Component } from './p4-t1/p4-t1.component';
 import { P4T2Component } from './p4-t2/p4-t2.component';
 import { P4T3Component } from './p4-t3/p4-t3.component';
 import { P4T4Component } from './p4-t4/p4-t4.component';
+import { P5T1Component } from './p5-t1/p5-t1.component';
+import { P5T2Component } from './p5-t2/p5-t2.component';
+import { P5T3Component } from './p5-t3/p5-t3.component';
+import { P5T4Component } from './p5-t4/p5-t4.component';
 
 export function HttpLoaderFactory(httpClient: HttpClient) {
     return new TranslateHttpLoader(httpClient, './assets/i18n/');
@@ -61,6 +65,14 @@ const Recipes = [
     P3T2Component,
     P3T3Component,
     P3T4Component,
+    P4T1Component,
+    P4T2Component,
+    P4T3Component,
+    P4T4Component,
+    P5T1Component,
+    P5T2Component,
+    P5T3Component,
+    P5T4Component,
 ];
 const materialModules = [
     MatIconModule,
@@ -74,7 +86,7 @@ const materialModules = [
 ];
 
 @NgModule({
-    declarations: [AppComponent, HomeComponent, ...Recipes, P4T1Component, P4T2Component, P4T3Component, P4T4Component],
+    declarations: [AppComponent, HomeComponent, ...Recipes],
     imports: [
         LayoutModule,
         BrowserModule,
