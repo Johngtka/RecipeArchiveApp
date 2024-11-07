@@ -244,6 +244,16 @@
                 "5": "Jajko rozkłócamy w miseczce. Do mąki dodajemy mleko z drożdżami i jajko. Wyrabiamy , ciasto ma być elastyczne, jeżeli za mało mąki, podsypujemy. Ciasto ma być na tyle zwarte , byśmy mogli z niego formować bułeczki. Odstawiamy do wyrośnięcia na godzinkę.",
                 "6": "Po godzinie ponownie wyrabiamy ciasto - krótko. Blaszkę do piekarnika smarujemy olejem. Formujemy bułeczki, wielkości jabłka. U mnie wyszło 9 bułek. Kładziemy na blasze. Bułki można posmarować białkiem , olejem lub wodą. Posypujemy do dekoracji płatkami owsianymi. Odstawiamy do wyrośnięcia na 10 minut. Pieczemy w temperaturze 200 stopni 25 - 30 minut."
             }
+        },
+        "P6T1":{
+          "NAME": "Maślane babeczki z białą czekoladą",
+            "STEPS": {
+                "1": "Piekarnik nagrzać do 160 stopni. Przygotować 6 papierowych papilotek o pojemności 125 ml każda i włożyć je we wgłębienia formy do muffinów (lub użyć jednorazowego zestawu papilotek na stelażu).",
+                "2": "Do rondelka wlać mleko, ekstrakt z wanilii, dodać masło i białą czekoladę połamaną na kosteczki. Na wolnym ogniu mieszać aż składniki się roztopią i połączą w jedną masę. Ostudzić.",
+                "3": "Przesiać mąkę wraz z proszkiem do pieczenia i sodą, wymieszać z cukrem i solą. Następnie wymieszać łyżką z roztopionymi składnikami a na końcu z roztrzepanym jajkiem.",
+                "4": "Masą wypełnić papilotki, pozostawiając około 1 - 2 cm margines od góry na wyrośnięcie ciasta. Wstawić do piekarnika i piec przez 25 - 30 minut aż babeczki urosną, zrumienią się, a do patyczka włożonego w środek babeczki nie będzie przyklejało się ciasto. Ostudzić w papilotkach.",
+                "5": "Ser mascarpone wymieszać z cukrem pudrem i sokiem z cytryny. Rozsmarować na dobrze ostudzonych babeczkach. Udekorować ozdobami lub posiekanymi orzechami włoskimi. Można schłodzić i trzymać w lodówce."
+            }
         }
     },
     "APP_FOOTER": "Wszelkie prawa zastrzeżone"
