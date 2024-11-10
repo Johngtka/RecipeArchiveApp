@@ -244,6 +244,46 @@
                 "5": "Jajko rozkłócamy w miseczce. Do mąki dodajemy mleko z drożdżami i jajko. Wyrabiamy , ciasto ma być elastyczne, jeżeli za mało mąki, podsypujemy. Ciasto ma być na tyle zwarte , byśmy mogli z niego formować bułeczki. Odstawiamy do wyrośnięcia na godzinkę.",
                 "6": "Po godzinie ponownie wyrabiamy ciasto - krótko. Blaszkę do piekarnika smarujemy olejem. Formujemy bułeczki, wielkości jabłka. U mnie wyszło 9 bułek. Kładziemy na blasze. Bułki można posmarować białkiem , olejem lub wodą. Posypujemy do dekoracji płatkami owsianymi. Odstawiamy do wyrośnięcia na 10 minut. Pieczemy w temperaturze 200 stopni 25 - 30 minut."
             }
+        },
+        "P6T1":{
+          "NAME": "Maślane babeczki z białą czekoladą",
+            "STEPS": {
+                "1": "Piekarnik nagrzać do 160 stopni. Przygotować 6 papierowych papilotek o pojemności 125 ml każda i włożyć je we wgłębienia formy do muffinów (lub użyć jednorazowego zestawu papilotek na stelażu).",
+                "2": "Do rondelka wlać mleko, ekstrakt z wanilii, dodać masło i białą czekoladę połamaną na kosteczki. Na wolnym ogniu mieszać aż składniki się roztopią i połączą w jedną masę. Ostudzić.",
+                "3": "Przesiać mąkę wraz z proszkiem do pieczenia i sodą, wymieszać z cukrem i solą. Następnie wymieszać łyżką z roztopionymi składnikami a na końcu z roztrzepanym jajkiem.",
+                "4": "Masą wypełnić papilotki, pozostawiając około 1 - 2 cm margines od góry na wyrośnięcie ciasta. Wstawić do piekarnika i piec przez 25 - 30 minut aż babeczki urosną, zrumienią się, a do patyczka włożonego w środek babeczki nie będzie przyklejało się ciasto. Ostudzić w papilotkach.",
+                "5": "Ser mascarpone wymieszać z cukrem pudrem i sokiem z cytryny. Rozsmarować na dobrze ostudzonych babeczkach. Udekorować ozdobami lub posiekanymi orzechami włoskimi. Można schłodzić i trzymać w lodówce."
+            }
+        },
+        "P6T2":{
+          "NAME": "Muffiny czekoladowe",
+            "STEPS": {
+                "1": "Piekarnik nagrzać do 180 stopni C. Masło roztopić i ostudzić. Czekoladę pokroić na kawałeczki.",
+                "2": "Mąkę przesiać do miski razem z proszkiem do pieczenia, sodą, kakao, kawą zbożową, dokładnie wymieszać. Dodać cukier oraz cukier wanilinowy, ponownie wymieszać, odstawić.",
+                "3": "W drugiej misce rozmiksować jajka z mlekiem (rózgą lub mikserem).",
+                "4": "Do sypkich składników dodać masę jajeczną i kilkakrotnie delikatnie wymieszać łyżką. Dodać roztopione masło, wymieszać, pod koniec dodać posiekaną czekoladę. Mieszamy krótko (3 - 4 ruchy łyżką), ciasto ma być lekko grudkowate, ale surowa mąka nie powinna być widoczna.",
+                "5": "Masę wyłożyć do papilotek umieszczonych w formie na muffiny i wstawić do piekarnika (można piec na raty, w 2 partiach).",
+                "6": "Piec przez około 20 - 23 minuty, do czasu aż muffiny urosną, na wierzchu utworzy się skorupka a wetknięty patyczek nie będzie obklejony ciastem."
+            }
+        },
+        "P6T3":{
+          "NAME": "Babeczki z malinami",
+            "STEPS": {
+                "1": "Piekarnik nagrzać do 170 stopni. Blaszkę do muffinów wyłożyć papilotkami. Masło pokroić na kawałki i włożyć do rondelka. Roztopić na średnim ogniu i zagotować. Zmniejszyć ogień i gotować przez około 2 minuty aż nabierze lekko złotego koloru i charakterystycznego aromatu.",
+                "2": "Odstawić z ognia, dodać cukier, mąkę ziemniaczaną, ekstrakt z wanilii (opcjonalnie lub cukier wanilinowy), szczyptę soli i 1 łyżkę wody. Szybko wymieszać łyżką wszystkie składniki na jednolitą masę.",
+                "3": "Gdy masa troszkę przestygnie dodawać kolejno jajka i za każdym razem dokładnie i energicznie wymieszać. Do gęstej i błyszczącej masy dodać przesianą mąkę pszenną i proszek do pieczenia,  mieszać przez około 1 minutę. Wymieszać z wiórkami kokosowymi lub zmielonymi płatkami migdałów.",
+                "4": "Ciastem wypełnić papilotki do 2/3 ich pojemności, do każdej włożyć po 3 maliny wciskając je w ciasto do połowy. Wstawić do nagrzanego piekarnika  i piec przez około 20 minut (lub nieco dłużej dla większych babeczek), aż urosną a patyczek wetknięty w środek będzie już suchy - należy uważać, aby nie przepiec babeczek, lepiej wyjąć je wcześniej, masa jeszcze zastygnie). Wyjąć z piekarnika i ustawić na kratce, ostudzić."
+            }
+        },
+        "P6T4":{
+          "NAME": "Babeczki z owocami lata",
+            "STEPS": {
+                "1": "Piekarnik nagrzać do 180 stopni C. Ubić miękkie masło z cukrem i wanilią na białą i puszystą masę (ok. 5 - 7 minut). Dodawać po jednym jajku, cały czas dokładnie miksując. Mąkę przesiać z proszkiem do pieczenia do czystej miski, wymieszać.",
+                "2": "Do ubitego masła dodawać w krótkich odstępach czasu, po łyżce, mąkę z proszkiem, naprzemian z mlekiem, w międzyczasie miksować mikserem na średnich obrotach.",
+                "3": "Ciasto nałożyć do 12 papierowych papilotek umieszczonych w blaszce z wgłębieniami. Ciasto będzie zajmować ponad połowę objętości papilotki.",
+                "4": "Do każdej babeczki wcisnąć w środek po dwie czereśniowiśnie (wiśnie, pokrojone czereśnie, maliny, jeżyny lub małe kawałki truskawek) oraz po 5 jagódek (lub borówek). Piec przez ok. 23 minuty.",
+                "5": "W międzyczasie przygotować białą 'pierzynkę' ubić zimną śmietankę kremową na sztywną pianę, wymieszać z pokruszonymi bezami i owocami. Babeczki dobrze ostudzić i udekorować."
+            }
         }
     },
     "APP_FOOTER": "Wszelkie prawa zastrzeżone"

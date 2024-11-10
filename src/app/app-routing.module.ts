@@ -22,6 +22,10 @@ import { P5T1Component } from './p5-t1/p5-t1.component';
 import { P5T2Component } from './p5-t2/p5-t2.component';
 import { P5T3Component } from './p5-t3/p5-t3.component';
 import { P5T4Component } from './p5-t4/p5-t4.component';
+import { P6T1Component } from './p6-t1/p6-t1.component';
+import { P6T2Component } from './p6-t2/p6-t2.component';
+import { P6T3Component } from './p6-t3/p6-t3.component';
+import { P6T4Component } from './p6-t4/p6-t4.component';
 
 const routes: Routes = [
     {
@@ -112,6 +116,22 @@ const routes: Routes = [
     {
         path: 'product/P5T4',
         component: P5T4Component,
+    },
+    {
+        path: 'product/P6T1',
+        component: P6T1Component,
+    },
+    {
+        path: 'product/P6T2',
+        component: P6T2Component,
+    },
+    {
+        path: 'product/P6T3',
+        component: P6T3Component,
+    },
+    {
+        path: 'product/P6T4',
+        component: P6T4Component,
     },
 ];
 
