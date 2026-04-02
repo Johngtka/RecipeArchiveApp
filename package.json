@@ -10,7 +10,9 @@
         "watch": "ng build --watch --configuration production",
         "format": "prettier --write ./**/*.{ts,json,html,css}",
         "test": "ng test",
-        "prepare": "husky install"
+        "prepare": "husky install",
+        "update": "npm update",
+        "frameupdate": "ng update"
     },
     "private": true,
     "dependencies": {
