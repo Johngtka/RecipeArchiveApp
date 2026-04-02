@@ -6,6 +6,7 @@ import { FormGroup, Validators } from '@angular/forms';
     selector: 'app-home',
     templateUrl: './home.component.html',
     styleUrl: './home.component.css',
+    standalone: false,
 })
 export class HomeComponent implements OnInit {
     answerForForm: string = 'CHUJ';

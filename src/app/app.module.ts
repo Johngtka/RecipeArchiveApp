@@ -53,9 +53,6 @@ export function HttpLoaderFactory(httpClient: HttpClient) {
     return new TranslateHttpLoader(httpClient, './assets/i18n/');
 }
 
-const navigatorLang = navigator.language.split('-')[0];
-const supportedLang = ['pl', 'en'];
-const lang = supportedLang.includes(navigatorLang) ? navigatorLang : 'pl';
 const Recipes = [
     P1T1Component,
     P1T2Component,
@@ -100,7 +97,7 @@ const materialModules = [
         BrowserModule,
         AppRoutingModule,
         TranslateModule.forRoot({
-            defaultLanguage: lang,
+            defaultLanguage: 'pl',
             loader: {
                 provide: TranslateLoader,
                 useFactory: HttpLoaderFactory,

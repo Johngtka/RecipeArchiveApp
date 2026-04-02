@@ -5,6 +5,7 @@ import { BreakpointObserver } from '@angular/cdk/layout';
     selector: 'app-root',
     templateUrl: './app.component.html',
     styleUrl: './app.component.css',
+    standalone: false,
 })
 export class AppComponent implements OnInit {
     constructor(private observer: BreakpointObserver) {}
