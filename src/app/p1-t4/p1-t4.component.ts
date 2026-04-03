@@ -4,5 +4,6 @@ import { Component } from '@angular/core';
     selector: 'app-p1-t4',
     templateUrl: './p1-t4.component.html',
     styleUrl: './p1-t4.component.css',
+    standalone: false,
 })
 export class P1T4Component {}

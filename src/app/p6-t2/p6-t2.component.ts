@@ -4,5 +4,6 @@ import { Component } from '@angular/core';
     selector: 'app-p6-t2',
     templateUrl: './p6-t2.component.html',
     styleUrl: './p6-t2.component.css',
+    standalone: false,
 })
 export class P6T2Component {}

@@ -4,5 +4,6 @@ import { Component } from '@angular/core';
     selector: 'app-p5-t2',
     templateUrl: './p5-t2.component.html',
     styleUrl: './p5-t2.component.css',
+    standalone: false,
 })
 export class P5T2Component {}

@@ -4,5 +4,6 @@ import { Component } from '@angular/core';
     selector: 'app-p3-t3',
     templateUrl: './p3-t3.component.html',
     styleUrl: './p3-t3.component.css',
+    standalone: false,
 })
 export class P3T3Component {}
