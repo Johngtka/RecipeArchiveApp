@@ -2,7 +2,6 @@ import { Component, OnInit, HostListener } from '@angular/core';
 import { FormControl } from '@angular/forms';
 import { Router } from '@angular/router';
 import { FormGroup, Validators } from '@angular/forms';
-import { delay } from 'rxjs/operators';
 
 @Component({
     selector: 'app-home',
