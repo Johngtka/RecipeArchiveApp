@@ -1,1 +1,9 @@
-<p>warning-after-hack works!</p>
+<mat-card>
+    <mat-card-content>
+        <h1>{{ 'HOME.WARNING.MESSAGE' | translate }}</h1>
+        <button mat-fab extended routerLink="/home" color="primary">
+            <mat-icon>arrow_circle_left</mat-icon
+            >{{ 'HOME.WARNING.BUTTON' | translate }}
+        </button>
+    </mat-card-content>
+</mat-card>

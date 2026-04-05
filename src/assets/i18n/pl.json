@@ -10,6 +10,10 @@
         "FORM": {
             "INPUT": "Rozwiązanie",
             "BUTTON": "Sprawdź"
+        },
+        "WARNING": {
+            "MESSAGE": "HAHAHA!!! nie ma tak łatwo!!! To  nie jest twój serwis!!!",
+            "BUTTON": "Powrót"
         }
     },
     "PRODUCTS": {
