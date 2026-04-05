@@ -2,6 +2,7 @@ import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
 
 import { HomeComponent } from './home/home.component';
+import { WarningAfterHackComponent } from './warning-after-hack/warning-after-hack.component';
 import { P1T1Component } from './p1-t1/p1-t1.component';
 import { P1T2Component } from './p1-t2/p1-t2.component';
 import { P1T3Component } from './p1-t3/p1-t3.component';
@@ -36,6 +37,10 @@ const routes: Routes = [
     {
         path: 'home',
         component: HomeComponent,
+    },
+    {
+        path: 'home/warning-after-hack',
+        component: WarningAfterHackComponent,
     },
     {
         path: 'product/P1T1',

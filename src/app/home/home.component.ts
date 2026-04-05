@@ -1,6 +1,8 @@
 import { Component, OnInit, HostListener } from '@angular/core';
 import { FormControl } from '@angular/forms';
+import { Router } from '@angular/router';
 import { FormGroup, Validators } from '@angular/forms';
+import { delay } from 'rxjs/operators';
 
 @Component({
     selector: 'app-home',
@@ -16,6 +18,8 @@ export class HomeComponent implements OnInit {
     formResponse!: any;
     formKeyByAnswer!: boolean;
 
+    constructor(private router: Router) {}
+
     ngOnInit(): void {
         this.riddlesForm = new FormGroup({
             answer: new FormControl('', [Validators.required]),
@@ -28,14 +32,23 @@ export class HomeComponent implements OnInit {
         this.formResponse = this.riddlesForm.value;
     }
 
-    checkAnswer(answerValue: any): void {
+    delay(ms: number) {
+        return new Promise((resolve) => setTimeout(resolve, ms));
+    }
+
+    async checkAnswer(answerValue: any) {
         if (answerValue.answer === this.answerForForm) {
             this.formKeyByAnswer = true;
+
+            await this.delay(2000);
+
+            this.router.navigate(['/home/warning-after-hack']);
+
+            this.formKeyByAnswer = false;
         } else {
             this.formKeyByAnswer = false;
         }
     }
-
     clearInput() {
         this.riddlesForm.get('answer')?.reset();
     }
