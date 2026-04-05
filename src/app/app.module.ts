@@ -48,6 +48,7 @@ import { P6T1Component } from './p6-t1/p6-t1.component';
 import { P6T2Component } from './p6-t2/p6-t2.component';
 import { P6T3Component } from './p6-t3/p6-t3.component';
 import { P6T4Component } from './p6-t4/p6-t4.component';
+import { WarningAfterHackComponent } from './warning-after-hack/warning-after-hack.component';
 
 export function HttpLoaderFactory(httpClient: HttpClient) {
     return new TranslateHttpLoader(httpClient, './assets/i18n/');
@@ -94,7 +95,12 @@ const materialModules = [
 ];
 
 @NgModule({
-    declarations: [AppComponent, HomeComponent, ...Recipes],
+    declarations: [
+        AppComponent,
+        HomeComponent,
+        ...Recipes,
+        WarningAfterHackComponent,
+    ],
     imports: [
         LayoutModule,
         BrowserModule,
