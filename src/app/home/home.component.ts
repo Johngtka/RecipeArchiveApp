@@ -40,7 +40,7 @@ export class HomeComponent implements OnInit {
         if (answerValue.answer === this.answerForForm) {
             this.formKeyByAnswer = true;
 
-            await this.delay(2000);
+            await this.delay(2800);
 
             this.router.navigate(['/home/warning-after-hack']);
 
