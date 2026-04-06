@@ -10,6 +10,10 @@
         "FORM": {
             "INPUT": "Solution",
             "BUTTON": "Check"
+        },
+        "WARNING": {
+            "MESSAGE": "HAHAHA!!! It's not that easy!!! This isn't your website!!!",
+            "BUTTON": "Return"
         }
     },
     "APP_FOOTER": "All rights reserved"
