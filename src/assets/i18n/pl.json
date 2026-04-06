@@ -10,6 +10,10 @@
         "FORM": {
             "INPUT": "Rozwiązanie",
             "BUTTON": "Sprawdź"
+        },
+        "WARNING": {
+            "MESSAGE": "HAHAHA!!! nie ma tak łatwo!!! To  nie jest twój serwis!!!",
+            "BUTTON": "Powrót"
         }
     },
     "PRODUCTS": {
@@ -167,8 +171,8 @@
                 "8": "Wyjąć z piekarnika i od razu ułożyć w miarę gęsto maliny, delikatnie dociskając je do kremu."
             }
         },
-        "P4T1":{
-          "NAME": "Ciasteczka z kawałkami czekolady",
+        "P4T1": {
+            "NAME": "Ciasteczka z kawałkami czekolady",
             "STEPS": {
                 "1": "Piekarnik nagrzać do 160 stopni C. Przygotować 2 duże blaszki do pieczenia i wyłożyć je papierem do pieczenia (ewentualnie można użyć 1 blaszki i piec jedną porcję po drugiej).",
                 "2": "Mąkę przesiać do miski, dodać sól, sodę lub proszek, cukier wanilinowy i wymieszać.",
@@ -179,8 +183,8 @@
                 "7": "Pierwszą blaszkę z ciastkami wstawić do piekarnika i piec przez 15 minut (aż brzegi ciastek zaczną się rumienić). Ciastka wyjmujemy z piekarnika gdy są jeszcze miękkie, a zastygają po ostudzeniu. Upiec drugą partię ciastek."
             }
         },
-        "P4T2":{
-          "NAME": "Ciasteczka owsiane z Ziarnami",
+        "P4T2": {
+            "NAME": "Ciasteczka owsiane z Ziarnami",
             "STEPS": {
                 "1": "Masło roztopić. Do czystej miski wsypać płatki owsiane, mąkę, cukier, proszek do pieczenia i ziarna.",
                 "2": "Wlać roztopione masło i wymieszać. Dodać jajka oraz miód jeśli używamy i wymieszać. Jeśli mamy czas, dobrze jest odstawić masę na ok. 1/2 - 1 godzinę.",
@@ -188,8 +192,8 @@
                 "4": "Piec przez ok. 15 minut na złoty kolor."
             }
         },
-        "P4T3":{
-          "NAME": "Ciasteczka owsiane z Bakaliami",
+        "P4T3": {
+            "NAME": "Ciasteczka owsiane z Bakaliami",
             "STEPS": {
                 "1": "Piekarnik nagrzać do 150 stopni C. Do miski wsypać mielone migdały, mąkę oraz sodę oczyszczoną, wymieszać. Dodać płatki owsiane, wiórki kokosowe oraz mieszankę rodzynek i żurawiny, wymieszać.",
                 "2": "W rondelku roztopić masło z miodem oraz z 1 łyżką wody. Przelać do miski z sypkimi składnikami i dokładnie wymieszać.",
@@ -197,8 +201,8 @@
                 "4": "Wstawić do piekarnika i piec przez 15 minut."
             }
         },
-        "P4T4":{
-          "NAME": "Włoskie ciasteczka Cantuccini",
+        "P4T4": {
+            "NAME": "Włoskie ciasteczka Cantuccini",
             "STEPS": {
                 "1": "50 g migdałów drobno siekamy i łączymy w misce z mąką przesianą przez sitko. Dodajemy szczyptę soli, proszek do pieczenia, cukier trzcinowy oraz skórkę otartą z 1 cytryny, 2 duże jaja oraz 50 g całych migdałów. Ciasto zagniatamy na jednolitą masę.",
                 "2": "Z tak przygotowanego ciasta formujemy wałek o średnicy 3-4 cm i przekładamy go na blaszkę wyłożoną papierem do pieczenia, a następnie wstawiamy ją do piekarnika nagrzanego do 180°C na 30 minut.",
@@ -206,8 +210,8 @@
                 "4": "Można je jeść, maczając w kawie lub słodkim winie."
             }
         },
-        "P5T1":{
-          "NAME": "Bułka Przenna",
+        "P5T1": {
+            "NAME": "Bułka Przenna",
             "STEPS": {
                 "1": "Z ciepłego mleka, drożdży, cukru i łyżki mąki zrobić zaczyn i odstawić do podrośnięcia w ciepłe miejsce na około 10 minut. Do mąki dodać zaczyn, wodę, sól i wyrabiając stopniowo dodać stopione masło. Wyrabiać ciasto (ręcznie, w automacie do chleba lub robocie) do czasu, aż ciasto będzie elastyczne i gładkie. Wyrobione ciasto odstawić do podrośnięcia na około 1 godzinę.",
                 "2": "Po tym czasie, ciasto chwilę wyrobić i podzielić na równe porcje. Formować kulki i układać na blaszce wyłożonej papierem do pieczenia zlepieniami do dołu. Bułki przykryć czystą ścierką i odstawić do podrośnięcia na około 30 minut.",
@@ -215,8 +219,8 @@
                 "4": "Bułki wstawić do nagrzanego do 200 stopni piekarnika na około 20 minut lub do czasu, aż zrobią się rumiane. Studzić na kratce."
             }
         },
-        "P5T2":{
-          "NAME": "Bułka Kajzerka",
+        "P5T2": {
+            "NAME": "Bułka Kajzerka",
             "STEPS": {
                 "1": "Wszystkie składniki przełożyć do miski i zagnieść. Od momentu, gdy ciasto zacznie ładnie odchodzić od miski wyrabiać jeszcze ok. 5 minut. Ciasto odstawić na 10 minut. Po tym czasie wyrobić ponownie przez ok. 5 minut. Ciasto powinno być prężne, o wyglądzie i konsystencji plasteliny. Ciasto przełożyć do miski lekko wysmarowanej olejem. Miskę z ciastem przykryć ściereczką i pozostawić na ok. 1 godzinę w ciepłym miejscu do wyrośnięcia.",
                 "2": "Wyrośnięte ciasto podzielić na 8 części. Z każdej części uformować bułkę, ułożyć na blasze wyłożonej papierem do pieczenia, lekko spłaszczyć ręką, przykryć i pozostawić na ok. 45 minut do wyrośnięcia. (Nie dłużej, bo się za bardzo napuszą i stracą konsystencję kajzerek).",
@@ -224,8 +228,8 @@
                 "4": "Bułki piec w nagrzanym piekarniku ok. 15- 17 minut w temperaturze 225°C, grzałka góra- dół."
             }
         },
-        "P5T3":{
-          "NAME": "Bułka Ciabatta",
+        "P5T3": {
+            "NAME": "Bułka Ciabatta",
             "STEPS": {
                 "1": "Mąkę, sól oraz drożdże wymieszaj w misie miksera. Zrób zagłębienie na środku i wlej tam 300 ml wody. Miskuj wszystko na wolnych obrotach miksera, aż składniki się połączą.",
                 "2": "Następnie wlej do ciasta pozostałe 100 ml wody i miksuj przez kolejne 5 – 8 minut. Ciasto powinno być luźne, ale jednolite.",
@@ -234,8 +238,8 @@
                 "5": "Każdą z części rozciągnij nieco na taki płaski owal/prostokąt i przełóż ostrożnie na blachę wyłożoną papierem do pieczenia (u mnie weszły po 2 na blachę. Możesz je potem uformować, podkładając brzegi pod spód, żeby były bardziej równe."
             }
         },
-        "P5T4":{
-          "NAME": "Bułka z Ziarnami",
+        "P5T4": {
+            "NAME": "Bułka z Ziarnami",
             "STEPS": {
                 "1": "Mleko podgrzewamy , aby było letnie. Rozpuszczamy w nim drożdże i łyżeczkę cukru. Niech odstoi około 10 minut.",
                 "2": "W dużej misce przesiewamy przez sitko mąki i mieszamy je łyżką.",
@@ -245,8 +249,8 @@
                 "6": "Po godzinie ponownie wyrabiamy ciasto - krótko. Blaszkę do piekarnika smarujemy olejem. Formujemy bułeczki, wielkości jabłka. U mnie wyszło 9 bułek. Kładziemy na blasze. Bułki można posmarować białkiem , olejem lub wodą. Posypujemy do dekoracji płatkami owsianymi. Odstawiamy do wyrośnięcia na 10 minut. Pieczemy w temperaturze 200 stopni 25 - 30 minut."
             }
         },
-        "P6T1":{
-          "NAME": "Maślane babeczki z białą czekoladą",
+        "P6T1": {
+            "NAME": "Maślane babeczki z białą czekoladą",
             "STEPS": {
                 "1": "Piekarnik nagrzać do 160 stopni. Przygotować 6 papierowych papilotek o pojemności 125 ml każda i włożyć je we wgłębienia formy do muffinów (lub użyć jednorazowego zestawu papilotek na stelażu).",
                 "2": "Do rondelka wlać mleko, ekstrakt z wanilii, dodać masło i białą czekoladę połamaną na kosteczki. Na wolnym ogniu mieszać aż składniki się roztopią i połączą w jedną masę. Ostudzić.",
@@ -255,8 +259,8 @@
                 "5": "Ser mascarpone wymieszać z cukrem pudrem i sokiem z cytryny. Rozsmarować na dobrze ostudzonych babeczkach. Udekorować ozdobami lub posiekanymi orzechami włoskimi. Można schłodzić i trzymać w lodówce."
             }
         },
-        "P6T2":{
-          "NAME": "Muffiny czekoladowe",
+        "P6T2": {
+            "NAME": "Muffiny czekoladowe",
             "STEPS": {
                 "1": "Piekarnik nagrzać do 180 stopni C. Masło roztopić i ostudzić. Czekoladę pokroić na kawałeczki.",
                 "2": "Mąkę przesiać do miski razem z proszkiem do pieczenia, sodą, kakao, kawą zbożową, dokładnie wymieszać. Dodać cukier oraz cukier wanilinowy, ponownie wymieszać, odstawić.",
@@ -266,8 +270,8 @@
                 "6": "Piec przez około 20 - 23 minuty, do czasu aż muffiny urosną, na wierzchu utworzy się skorupka a wetknięty patyczek nie będzie obklejony ciastem."
             }
         },
-        "P6T3":{
-          "NAME": "Babeczki z malinami",
+        "P6T3": {
+            "NAME": "Babeczki z malinami",
             "STEPS": {
                 "1": "Piekarnik nagrzać do 170 stopni. Blaszkę do muffinów wyłożyć papilotkami. Masło pokroić na kawałki i włożyć do rondelka. Roztopić na średnim ogniu i zagotować. Zmniejszyć ogień i gotować przez około 2 minuty aż nabierze lekko złotego koloru i charakterystycznego aromatu.",
                 "2": "Odstawić z ognia, dodać cukier, mąkę ziemniaczaną, ekstrakt z wanilii (opcjonalnie lub cukier wanilinowy), szczyptę soli i 1 łyżkę wody. Szybko wymieszać łyżką wszystkie składniki na jednolitą masę.",
@@ -275,8 +279,8 @@
                 "4": "Ciastem wypełnić papilotki do 2/3 ich pojemności, do każdej włożyć po 3 maliny wciskając je w ciasto do połowy. Wstawić do nagrzanego piekarnika  i piec przez około 20 minut (lub nieco dłużej dla większych babeczek), aż urosną a patyczek wetknięty w środek będzie już suchy - należy uważać, aby nie przepiec babeczek, lepiej wyjąć je wcześniej, masa jeszcze zastygnie). Wyjąć z piekarnika i ustawić na kratce, ostudzić."
             }
         },
-        "P6T4":{
-          "NAME": "Babeczki z owocami lata",
+        "P6T4": {
+            "NAME": "Babeczki z owocami lata",
             "STEPS": {
                 "1": "Piekarnik nagrzać do 180 stopni C. Ubić miękkie masło z cukrem i wanilią na białą i puszystą masę (ok. 5 - 7 minut). Dodawać po jednym jajku, cały czas dokładnie miksując. Mąkę przesiać z proszkiem do pieczenia do czystej miski, wymieszać.",
                 "2": "Do ubitego masła dodawać w krótkich odstępach czasu, po łyżce, mąkę z proszkiem, naprzemian z mlekiem, w międzyczasie miksować mikserem na średnich obrotach.",
